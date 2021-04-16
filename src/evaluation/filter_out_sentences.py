@@ -1,3 +1,7 @@
+# Usage: 
+#  (en) python evaluation/filter_out_sentences.py --dic ../data/dic/test.dic.en --input ../data/sample_output.en --output ../work/filtered_sample_output.en
+#  (ja) python evaluation/filter_out_sentences.py --dic ../data/dic/test.dic.ja --input ../data/sample_output.ja --output ../work/filtered_sample_output.ja
+
 from tqdm import tqdm
 import re
 import argparse
