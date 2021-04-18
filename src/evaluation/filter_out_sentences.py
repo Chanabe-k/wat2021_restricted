@@ -6,25 +6,40 @@ from tqdm import tqdm
 import re
 import argparse
 
-def filter_sentence_with_dic(sentence: str, dic: list):
-    def _remove_punctuation(word):
-        punctuations = r'\'"「」\()（）'
-        for punc in punctuations:
-            word = word.replace(punc, '')
-        return word
+def _lowercase(text: str):
+    return text.lower()
+
+def _detokenize(text: str):
+    return ''.join(text.split(' '))
+
+def _remove_punctuation(text: str):
+    punctuations = r'\'"「」\()（）'
+    for punc in punctuations:
+        text = text.replace(punc, '')
+    return text
+
+def _replace_specialchar(w: str):
+    specialchars = '+'
+    for specialchar in specialchars:
+        w = w.replace(specialchar, '\\' + specialchar)
+    return w
+
+def filter_sentence_with_dic(s: str, dic: list):
+    orig_s = s
     
     # Check whether the sent contains all the restricted words
     match_count = 0
-    for word in dic:
-        # Remove punctuation ('',"", 「」, () ...) from word
-        word = _remove_punctuation(word)
+    for w in dic:
+        for f in [_lowercase, _detokenize, _remove_punctuation]:
+            w, s = f(w), f(s)
+        w = _replace_specialchar(w)
         
-        if re.search(word, sentence):
+        if re.search(w, s):
             match_count += 1
     
     # Filter
     if match_count == len(dic):
-        return sentence
+        return orig_s
     else:
         return ''
 
@@ -48,10 +63,6 @@ def main():
     parser.add_argument('--output', type=str, help='Output name')
     args = parser.parse_args()
 
-    # TODO: jaの場合、いったんdetokenizeする必要がある
-    # dic_path = "../data/golddata_20210311/test.dic.en"
-    # output_path = "../data/sample_output.en"
-    # filtered_output_path = "../work/filtered_sample_output.en"
     dic_path = args.dic
     input_path = args.input
     filtered_output_path = args.output
