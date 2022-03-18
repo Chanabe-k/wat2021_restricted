@@ -1,7 +1,7 @@
 set -eux
 
-LANG=ja # ja
-DIRECTION=en-ja #en-ja
+LANG=ja # ja/en
+DIRECTION=en-ja #en-ja/ja-en
 
 HOME_PATH=/Users/abe-k/wat2021_sharedtask/
 OUTPUTS_PATH=${HOME_PATH}submitted_outputs/${DIRECTION}
