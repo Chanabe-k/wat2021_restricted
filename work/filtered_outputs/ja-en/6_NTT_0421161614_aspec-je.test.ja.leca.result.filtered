@@ -1,0 +1,1812 @@
+
+The VRdose software informs situational changes in calculating dose rate, i.e., object changes, by a marker specific to DERs.
+DERs can calculate new dose rate corresponding to these changes.
+The following were summarized: Features, utilization manual and design document of the R5 version of this software.
+
+This circuit is a feedback circuit in which the resonance frequency shifts by the change of the input signal phase, and it can detect the change of the magnetic features of the object in the center of two coils with high sensitivity and resolution.
+As a coil, 2 coils of 6mm inner diameter and 800 turns were inversely connecting.
+In the experiment, characteristics of tap water, pure water, and tap water treated with a magnetized device could be analyzed as frequency changes.
+And, it was confirmed that it could also detect the change of flow rate and volume flow rate.
+
+Assuming that the SAW-RF and frequency resolution are 1 GHz and 0.1 Hz, respectively, the detectable strain is calculated to be 10-10.
+A SAW sensor with a resonant frequency of 40MHz was designed and fabricated on a quartz substrate by micromachining.
+The minimum detection strain was 10-5.
+
+Except for 3PCIS and three-phase reference signal generator from RT-PSRF, it is composed of the same parts as the conventional optical stripe range finder.
+
+Thus, three-dimensional shapes of the object can be obtained in real time by converting the detected phase to the angle of the projected sheet beam.
+Compared with a time-stamp VLSI range finder, the PSRF is less sensitive to the spatial ununiformity of the surface reflection of an object and the influence of background illumination.
+The proposed PSRF has a simpler structure than the modulated PSRF.
+First, regarding diversity of properties of water, this paper explains hydrogen bond which is a force acting between water molecules, and the network structure.
+Next, this paper explains changes in hydrogen bond networks which are bases of motion of water.
+Water molecules in the local part of the hydrogen bond move collectively, while water molecules in the other part do not.
+This paper shows energy fluctuations with such intermittent movement.
+Finally, freezing way of the water, aspect of the change of pH of the water and meaning of pH7 are explained.
+The article introduces technological results of forming single crystal thin films of insulator, metal, and ferroelectrics on a silicon substrate.
+The key technology is the technology which produces a thin film of γ-alumina on the silicon substrate.
+On chemically stable alumina film, various functional thin films can be formed by CVD and MBE methods.
+Various sensors by multilayer thin films have been realized.
+What had been done for the solution of electrification problem of the phase plate which was the most difficult of the phase difference electron microscope development was reported.
+There were two problems in the solution of the electrification problem.
+One is the fine processing technology of the phase plate, which was solved by the processing method by FIB (focus ion beam equipment).
+
+Hafnium-related thin film oxides have been extensively studied as tip gate dielectrics for field effect transistors (FET).
+The authors examined the physical properties of high K nano-laminate materials composed of HfO2 and SiNx.
+The effects of the deposition process and the annealing process were investigated using the surface analysis method.
+X‐ray photoelectron spectroscopy (XPS) was used to investigate the chemical state change, depth composition profile and band offset.
+And, the bandgap was examined using the ESEELS method (elastic scattering electronic energy loss spectrum).
+It was clarified that theHf/(Hf+Si) ratio did not affect the bandgap, but affected the band offset for the nano-laminate.
+The pairing density distribution of deformed nuclei is investigated using the Hartree-Fock-Bogoliubov method.
+Axial symmetric, quadrupole deformed nuclei were taken as an object.
+The angular dependences of the density distribution and the pairing density distributio are obtained using the surface type pairing correlation.
+102Zr was analyzed for angles of 0, π/4 and π/2 from the radial axis.
+It is found that the deformation affects the pairing density distribution.
+
+The periodic oscillation of the flow resistance yields the upper and lower phase boundaries of the three-dimensional regular Josephson vortex lattice phase.
+The doping results in a significant change in the lower boundary of the three-dimensional orderly vortex phase.
+At the lower phase boundary, the formation of Josephson vortex lattice begins and the layer is filled with Josephson vortices, reflecting the anisotropy.
+
+High‐Tc superconducting Bi‐Sr‐Ca‐Cu‐O tapes were prepared by the pit method.
+Ag andAg‐0.3wt.%Mn were used as inner and outer sheath materials, respectively.
+The mechanical properties and critical current deterioration of the tapes under axial fatigue loading were investigated.
+The results are described in detail.
+The title subject detector using superconducting tunnel junction (STJ) was developed.
+The STJ has a multi-layer structure of Nb/Al/AlOx/Al/Nb, and the substrate is a LiNbO3 single crystal.
+The THz wave irradiation converts into phonons in the LiNbO3 crystal, and this phonon reaches the Nb base electrode and destroys the Cooper pairs.
+As a result, THz waves can be detected as tunneling current signals at the STJ.
+Fabrication and property evaluation of this detector were described.
+SiO2 films and nano-dots were formed using the plasma-enhanced chemical vapor deposition (PECVD) method developed for low-temperature crystallite silicon transistors.
+The former uses a conductively coupled plasma (CCP) source and the latter an inductively coupled plasma (ICP) source.
+The density and diameter distribution of Si dots can be changed by the formation temperatures.
+The shape and crystallinity of the dots depend on the temperatures.
+The SiO2 films showed excellent performance even at 430 °C or less, and the memory effect of Si dot MOS capacitor was confirmed.
+Protein localization and dynamic phase in the reproductive cell of the reproduction granule composition protein were examined.
+As a result of EST analysis of vasa of Oryzias latipes and Oryzias latipes, two newly identified genes were fused with the gene of GFP or RFP, and introduced into the fertilized egg of Oryzias latipes.
+The germ line was peculiarly manifested by this, and it was analyzed using fluorescence correlation spectroscopy and laser scanning type fluorescence microscope.
+
+
+XPS revealed the presence of perfluorosilan alkyl chain coating on PFTs/Al/Si, PFTs/Al/Si exposed to nitric-acid-treatment for 140 h and PFTs/Al/Si exposed to nitric-acid-treatment for 140 h.
+The CAM made on these three surfaces shows that the static water contact angle is>115 °, the wet hysteresis is almost constant, and shows high hydrophobicity and good resistance.
+It shows the stability of PFTs/Al/Si to nitric acid (pH<1.8, 60 °C, 30 minutes).
+AFM data show that PFTs/Al/Si film is stable without significant difference in surface roughness of PFTs/Al/Si before and after warm nitric-acid-treatment.
+Liquid crystals have the possibility of application to various functional materials.
+Construction and new functionalization of the organizational structure by the molecular design are being tried.
+Design of liquid crystals and nanophase separation structure, mass transport and separation by liquid crystals, and electrical functions of liquid crystals are described.
+Molecular shape and intermolecular interaction greatly influence the self-assembled structures.
+This paper describes the characteristics of particle transport and dielectric breakdown under atmospheric pressure, and outlines the properties and features of typical atmospheric thermal nonequilibrium plasmas.
+
+Regarding dielectric barrier discharge, dielectrics are placed on at least one of electrodes such as parallel flat plate electrodes and circular cylinder electrodes, and dielectric barrier discharge is generated, when alternate current or pulse voltage are applied between electrodes.
+
+
+
+In addition, products using polarization elements and polarization elements themselves are used more and more complicatedly.
+Since the system to measure the complete Mueller matrix of the sample has the advantage of measuring all the polarization properties of the sample, it will be useful for the utilization of most types of polarization sample at present or in the future.
+In this paper, the basis of polarization measurements is briefly described, and the Mueller matrix for describing the polarization properties of the sample is explained.
+An AxoScan system for measuring the complete Mueller matrix of a sample is also described.
+This paper describes automatic control of flow rate, and explains sequential control.
+
+The type, basic configuration and standards of this flow sensor are illustrated and introduced.
+The constant flow control is introduced as an application example.
+The establishment of an optical fiber attenuation standard was tried.
+The light source was a light emission diode of center wavelength 850nm and Gaussian spectrum full width at half maximum 50nm, and the optical fiber was a multimode GI type of effective core diameter 26 μm and effective numerical aperture 0.11.
+The measuring temperature was 22 °C, and the measuring range of the attenuation was 10-50dB.
+The result of international comparison by Japan (ETL), Italy (CSELT), Netherlands (VSL), Germany (PTB) and France (LCIE) is discussed.
+Power failure and equipment damage by the lightning become a problem, since the radio relay station is installed at the summit of the high altitude location.
+
+
+The lightning stroke ratio to the radio tower and the distribution lines is equal.
+The United States intends to promote the international and domestic competitive power and superiority by the close cooperation of the government, industry and universities.
+The experiment of the high temperature superconductivity of yttrium and copper oxides was reported in the beginning of 1987, and the worldwide research competition started, and especially, the national promotion policy was taken so that it may not delay Japan.
+The aid policy of the development system of industry‐government‐university was advocated by the President Legan, and concrete legislation and administrative measures were taken, and 5 strengthening bills were proposed.
+
+World and domestic supply and demand trends were outlined, and classification and positioning of representative grades of each company were carried out.
+As recent trends in forming technologies, this paper describes on the forming method including mold designs to utilize the characteristics, and the forming method to improve weld strength.
+Regarding applications, this paper describes trends and prospects in various fields of injection molded products and extrusion molded products and polymer alloys.
+This paper introduces recent topics on recycling.
+Pancake coils with an inner diameter of 40mm were fabricated using silver coated bismuth based 61‐core high temperature superconducting cables of 600m and 1200m.
+Both of them were cooled by a GM refrigerating machine.
+The 1.0T coil was successfully operated for 100 hours.
+The latter coil delivered 2.2T in liquid helium.
+0.56T was obtained even at 64K.
+Full color will be the next of the mass production of the hologram.
+The titled hologram opens a way for mass-production of hologram at low cost, and is a polymer volume hologram using DMP‐128 photopolymer as a photosensitive recording material.
+This hologram has the feature of reproducing the bright and clear image under the white scattered light, and it has high value added in the future from the chemical treatment process technology.
+Characteristics of photopolymer and record processes are explained.
+A time‐of‐flight method using a pulsed laser was used as a photoconduction measuring method.
+
+The 420nm light generates a photocurrent signal in proportion to the second power of the light intensity.
+A detailed analysis of the intensity dependence of excited light suggests that this is due to photoionization.
+The database for the superconducting material development was constructed, and the deduction system for the material design was developed.
+
+
+An interface for substance operation at an atomic level was developed.
+The geometric‐optical theory of the standing wave based on the ray coincidence was developed.
+This kind of ray can be called the wave normal ray.
+The problem of reflection and refraction of the cylindrical wave in the plane boundary was taken up in order to explain the basic concept.
+The inequality which satisfies incidence and reflection angle of the wave is deduced by the principle of the wave normal ray.
+
+It is the most important concept for establishing the chemical world image, and the history is described.
+
+The hypothesis of Avogadro (1811) contributed to the further development.
+
+The problem of notation of units of atomic weight is also mentioned.
+In the material production process, it is necessary to precisely control thermal phenomena such as fusion, solidification and rapid cooling of the substance.
+The heat transfer mechanism in fluid transient critical process was clarified.
+Macroscopic heat transfer characteristics of the fluid in the vicinity of a critical point were clarified by experiment and numerical analysis.
+In order to microscopically clarify the super rapid transient phenomenon, the formation of molecular cluster with temperature and pressure change was also examined by large‐scale numerical analysis using the technique of molecular dynamics.
+This paper describes the development of the title for the coating of particles by plasma CVD.
+Methane conversion was used to study the characteristics of this type of reactor.
+
+In the presence of excess hydrogen, particles promote carbon generation, indicating the possibility of plasma CVD on fluidized particles.
+This paper describes technology development in which liquid fuel is permeated into ultra low density plastic foam for forming a cryotarget consisting of uniform fuel layer in a hollow sphere for laser fusion.
+The foam hollow sphere was produced by the density matching emulsion technique.
+The ablator layer of low‐density was formed in the outside.
+The machining accuracy was obtained by SEM and interferometry, and the mechanical strength was obtained by tensile stress measurement.
+Sphericity of over 98%, film thickness uniformity, and smoothness of 0.2 μm or less were realized.
+This paper describes the conduction characteristics of the thin film reported before in the as‐grown condition, and examines the difference between the thin film obtained at present and the thin film showing superconductivity.
+For the characteristic evaluation of the thin film, the temperature resistance characteristics were identified by the direct current four‐terminal method and the crystal structure was identified by X‐ray diffraction.
+As‐grown BiSrCaCuO thin film was prepared under two different preparation conditions.
+
+However, some of them showed semiconductor‐like temperature resistance characteristics and superconducting characteristics.
+For the wall turbulence of high Reynolds number, formulation and numerical analysis for evaluating turbulent characteristics without using the semiempirical parameter were carried out.
+In this method, the two point correlation included in the turbulent flow fluctuation equation is separated into variables corresponding to each point.
+
+An example of the solution is given.
+
+The phase Doppler method (PDPA) was used to measure the number of captured particles at each point up to 500mm every 100mm from the nozzle.
+By measuring the particles, individual data of the particles entering the measuring volume were all recorded in the raw data mode with the inflow time.
+Apart from the nozzle, the division of liquid lumps and large particles proceeded.
+We have developed an embedding heterostructure deformed quantum well laser as a 0.98μm band excitation light source for an optical fiber amplifier using an Al‐free InGaP/InGaAsP material.
+The optical damage was eliminated by forming the non‐absorption region in the facet, and the optical output of maximum 180mW was obtained.
+Due to the embedding heterostructure, the current leakage near the threshold was very small.
+The stable behvior for 2000 hours was confirmed.
+The purpose of this study is to compare the effect of particle coagulation on the mechanical properties of granular materials by experiment and analysis.
+
+The magnetic field was applied perpendicular or parallel to the tube axis.
+Pressure difference and flow velocity of a magnetized fluid were measured.
+On the other hand, equations for viscosity increase and pressure difference are derived from the theory that globular particles aggregate to form long ellipsoidal mass.
+The effects of the direction of the magnetic field and the aggregation number on the temperature difference‐pressure difference are illustrated.
+This paper explains the captioned measurement technology on vibration and temperature in the heavy machinery industry.
+A slip collector ring is unnecessary for strain measurement of turbine blades by a radio telemeter, and non-contact measurement is possible for temperatures by a light pyrometer, and for clearance between blades and a casing by an optical fiber laser.
+
+The laser Doppler vibrometer is utilized for the vibration measurement with high‐resolution.
+Infrared ray applied measurement using radiant heat is useful for stress analysis.
+The scattering of oxygen gas molecule from the graphite surface was simulated by the molecular dynamics method.
+The experiment was performed by the scatter of a supersonic molecular beam of O2 on a clean graphite surface in an UHV room.
+Both results of the angle distribution of scattering O2 agreed well.
+The energy transfer from gas molecules to the surface in the first collision is also analyzed.
+It was found that the loss of rotational energy was most affected by the initial rotational energy, but the energy transfer was also an important factor.
+The topics on nonlinear wave in the lattice dynamics and localized mode which the nonlinearity of the lattice brought about were introduced.
+
+Properties of the space localized mode solution of the lattice equation derived from the unidimensional anharmonic potential are clarified.
+It is also predicted that there exists a steady localized mode in the multidimensional lattice.
+The dynamic equilibrium surface form depends on the annealing condition and the miss‐cut direction of the substrate.
+The annealing condition and the substrate studied include many common conditions under which MOCVD epitaxial growth is performed.
+Experimental results show that themicro oblique GaAs(001) surface, annealed in AsH3/H2 atmosphere, tends to form step bunching.
+The model explains the experimental results.
+Various types of flow sensors are used to measure the flow rate of fluid flowing in piping of a plant, depending on the property and condition of fluid.
+Then, it is necessary to choose the appropriate sensor by the difference between property and condition of the fluid.
+This paper presents examples in which an application range was expanded using recent technology, while it simply explains the measurement principle, merits and demerits of representative flow sensors.
+Production trends and features of differential pressure type flowmeters, electromagnetic flowmeters, area type flowmeters, and capacity type flowmeters are mentioned.
+Recently, the development of the near field optics using the evanescent light is remarkable.
+In this paper, the virtual near field optical microscope was constructed on the computer using the guided mode separate type integral equation method, and the animation was produced.
+By displaying in the animation, it was clarified that light distribution change of the probe vicinity could be easily understood.
+The system is applicable to CAD of near field optics.
+Optical switching in the title and optical recording image were formed, and the stability was examined.
+A liquid‐crystal film of the title was formed by uniaxial orientation on a glass substrate, and the amount of the transmitted light through a polarizing plate was measured.
+The nematic phase disappeared by 366nm bright line irradiation, and the amount of the transmitted light became zero.
+Image (I) was formed by the laser pulse irradiation, and the stability over 1 year was shown at the room temperature.
+I was able to be eliminated at the temperature over TG.
+The mechanism of the heat return reaction is discussed.
+The formation of the homogeneous orientation of a liquid crystal with a tilt angle was studied using the above polyimide.
+A helical polyimide (I) film and a straight chain type polyimide (II) film were formed on a glass substrate, respectively, and in‐plane orientation and tilt irradiation were carried out by UV irradiation.
+Liquid crystal for active matrix was injected into the cells.
+I showed cleavage of the principal chain by UV, and showed only small tilt angles regardless of UV irradiation angle.
+The orientation of (II) was stabilized, and reverse tilt was not observed.
+The tilt direction was the same as that of UV irradiation.
+
+The application fields are separation and extraction of useful substances, reactivity improvement, creation of new products, waste treatment, and chemical analysis.
+Environmental harmonized reaction process, effective utilization of unused resources, new material creation, and physical properties of reaction have been studied.
+Examples of the application of CFCs to the hydrolysis are presented.
+
+The results show that a high burn‐up of about 500GWd/t and a MA annihilation rate up to 40% can be achieved.
+In addition, MA annihilation rate of about 70% was achieved in a MA separation model in which nuclear fuels are loaded by dividing them into MA nuclear fuel ball groups and Pu nuclear fuel ball groups.
+This furnace is promising, and will be sufficiently examined in future.
+Melt fracture or unstable flow increases the importance in the high speed molding.
+The melt fractures develop in the region and the flow curve.
+Melt fracture characteristics in HDPE.
+The flow pattern in the reservoir and the shape of moldings extruded.
+It was examined by dividing into each item of mechanism generating spiraling melt fracture.
+Protective measures for melt fracture are also described.
+
+The storage and release reactions of hydrogen are greatly influenced by the surface quality of the alloy.
+In the bulk material, it becomes a problem how the alloy powder surface is controlled in film structure suitable for hydrogen storage.
+The characteristics of thin film of TiNi, TiCu, La‐based and Zr‐based alloys are explained.
+
+
+The liquid crystal particels wrapped with such polymers are easy to form from several tenth μm to 5 μm.
+Layers of liquid crystal particle wrapped with polymers of various compositions were prepared by taking into account the electrooptical and other properties.
+Finally, the particle size was made to be 1.25 μm, and 75wt% was dispersed in the polymer, and the layer of the thickness of 29 μm was made.
+As a result, V10=11.8V and V90=18V were obtained as electro‐optical property.
+The thermal flow sensor with wide flow measurement range of 0.005〜90m/s and high durability was developed.
+Using this sensor, a multi‐point measurement type flow meter for non‐non‐developed turbulent flow was developed.
+This flow meter can detect a flow rate over 20-3200m3/h in a 0.2m inner diameter pipe under a non‐developed turbulent condition.
+Using this flow meter, a long straight section becomes unnecessary for the piping, and down‐sizing of instrumentation system mounting becomes possible.
+This paper outlines the trends of the measurement technique of reflection and transmission object color, and introduces the cases to be noticed in colorimetry.
+
+Types and specification lists of colorimeters are shown.
+
+This paper reports the results for three years of the titled investigation expert committee.
+The following were clarified: That in superthin film of 10nm or less, functions and physical properties which are not observed in thick film can be expressed, and that there are special problems unlike thick film in order to evaluate electron optical function, etc..
+Electric, optical, photoelectric and structural evaluation technology are described in detail.
+Problems in film‐producing technology are also described.
+The ZnCdSe/ZnSSe/ZnMgSSe gain guiding wave type laser structure is a representative structure of the titled laser.
+The development of the top data of the II‐VI group compound semiconductor laser has already advanced to be equal to the III‐V group laser on static characteristics such as the thresholds.
+Optical outputs of 87mW in the continuous operation and 840mW in the pulse operation have also been confirmed, and the application to the disk writing application can be also expected.
+Improvement of the life is a large problem for the practical application.
+The present state of these research and development was viewed.
+The effects of filter width and numerical viscosity on the turbulent flow of a viscous fluid past a square cylinder are investigated by large eddy simulation.
+By the size relation of numerical viscosity and turbulent viscosity, the condition that the effect of the turbulent viscosity was rightly evaluated was examined.
+(2) Excellent effects of turbulent viscosity in the turbulent region can be expected by choosing the filter width appropriately.
+These are discussed on the LES results of a two‐dimensional flow around a square column at a Reynolds number of 22000.
+This is a part of the serial lecture.
+
+Next, molecular energy level and spectrum were taken up, and CO2 laser and excimer laser were mentioned.
+It was explained that the spectrum of the light which transits between levels was Lorenz type, and it was explained that the spread of the spectrum by the Doppler effect was Gaussian type.
+This paper reviews cutting, patterning, polishing, and metalizing work of diamond films by laser.
+The laser work is carried out by local heating and ablation by high density light flux.
+The effect of wavelength and pulse interval of the laser on damage threshold and etching rate of the diamond film in the wide range was compared and was examined.
+A new method for selective deposition of Ni and Cu on a laser‐activated diamond surface is described.
+
+N‐( 1‐pyrenemethyl )‐1‐pyrenemethanecarboxamide (I) was synthesized by the amidation reaction of 1‐pyreneacetic acid with 1‐pyrenemethylamine.
+
+The fluorescence spectrum of 1 showed concentration dependence, indicating the formation of aggregates.
+It was shown that the aggregation behavior of I could be detected by the spectral method.
+The fluorescence spectra of 1-4 showed no or weak concentration dependence, confirming the possibility of aggregate formation by hydrogen bonding of amide groups and stacking of pyrene units.
+For the practical application of the junction in the title, it is necessary to produce a large number of junctions with designable and reproducible values on critical current value Ic and normal conduction resistance Rn.
+Therefore, microstructures of various types of high temperature superconductivity Josephson junction developed until now have been investigated using TEM, and this paper describes the relation between the structure and characteristic reproducibility.
+The Josephson junction can be classified into grain‐boundary‐type and multilayer type.
+This paper also shows the role of the homo epitaxial growth technology of YBCO expected as a Josephson junction manufacture method for obtaining desirable IC and Rn with reproduciblility.
+In the motion stark effect (MSE) diagnostic system, the polarization angle of the σ component of dα, Hα beams is measured for tangentially injected NB heating beam.
+
+And, the dielectric multilayer mirror was introduced, and the background light was drastically reduced.
+Since the change of the polarization angle by the multilayer mirror is big, the calibration procedure is also described.
+A new in‐line flowmeter has been developed.
+
+The features are as follows: There is no sealing part, and safety is high; there is no moving part in a tube; maintenance is unnecessary; and it can be exchanged without stopping a flow of a process even in case of a trouble, because a sensor is located outside a tube.
+
+Using the technology which made the high-precise minute pipe by metallization and etching to the optical fiber, the self‐holding single mode optical fiber switch was constituted.
+This paper introduces the characteristics of this optical switch.
+The application technology to communication system, functional optical device, and optical measurement system was described.
+Then, the latest technlological trend of the micro photo mechanical switch with the aim of economical efficiency and enlargement of the optical switch was viewed.
+This paper explains the spectroscopic investigation of the titled particles with the size of nanometer order.
+Quantum size effect and resonance size selective excitation spectral diffraction at the lowest excitation energy are reviewed.
+The exciton state of II‐VI group semiconductor mesoscopic particles is explained mainly in the case of CdSe crystallites from the viewpoint of quantum size effect, exciton and carrier dynamics, and photodissociation phenomenon.
+For the comparison, IV group and I‐VII group semiconductor mesoscopic particles with different characteristics are explained.
+Finally, recent trends and problems in this field are described.
+This paper explains the structure and basic characteristics of the titled connector ofMT(Mechanically Transferable) type.
+And,MPO(Multifiber Push‐On) type connector and mini‐MPO type connector based on this connector technology are also mentioned.
+As the characteristics, this paper shows the data of mechanical test and environmental test.
+The high‐speed assembly multicore connector was mentioned as future problem.
+
+
+Furthermore,poly(2) brush was prepared by hydrolysis with HCl.
+The molecular weight, film thickness, surface roughness and contact angle of water ofpoly(1) brush and poly(2) brush and the friction coefficient of stainless steel balls and glass ball probes in water and air were evaluated.
+The friction coefficient of thepoly(2) brush was much smaller than that of thepoly(1) brush in water, but larger in air.
+In the unjust action of scientific paper, there are various forms and degrees of action in addition to fabrication, falsification, robbery of data and idea.
+In Japan, the correspondence to misconduct has been retarded.
+
+In addition, it should urgently establish the organ for judgment and judgment of the misconduct like Ori (Office of Research Integrity) of U.S.A..
+The author\'s new theory on the glass transition point from crosslinked resin to linear polymer is described.
+The author has already published the titled paper of \"new theory on physical properties from crosslinked resin to linear polymer: Melting point, glass transition point (Tg) and strength\" in J.Applied Polymer Science (Vol.97, 1467-1475 (2005)).
+In the new theory, g was also changed, because the crosslinked resin formed the different segment by the temperature of curing and after curing.
+And, TG of linear polymer is assumed to be segement of two rows of bonds bonded by van der Waals force between main chains, and the thermal elongation of C-C bond from 0 °C is set to be 1%.
+
+In the end of 2006, polonium attracted the attention of the world.
+Polonium is an element discovered by Currie wives in 1898, and the most abundant natural element is polonium 210.
+The characteristics of polonium as a poison are (1) the radioactivity is 10 billion times of uranium 238, (2) alpha‐decay occurs mainly, and (3) the permeability of alpha‐ray is extremely low when it is incorporated into human body.
+Though polonium 210 is very small, it is also contained in the cigarette smoke.
+When ozone is generated by silent discharge using oxygen as a raw material, the coexistence of nitrogen in the raw material gas promotes ozone generation.
+The effect of nitrogen discharge light was estimated, and nitrogen discharge light was injected into silent discharge space in oxygen.
+The ozone formation rate increased about 2mg/h.
+
+
+Next, as a method of SHG activity implementation in polymer systems, molecules with large super‐polarization coefficient (β) are dispersed in a matrix for polling.
+The present state of the research is described and the problems are described by mentioning the introduction of molecules with large β value into the side‐chain and the method using ferroelectric polymer.
+Langmuir‐Blodgett method and inclusion method are also mentioned.
+This paper presents a new pseudo liquid film, electrostatic pseudo liquid membrane (ESPLIM).
+The equipment used for this liquid film operation is composed of an extracting tank partitioned with baffle plates and a back‐extracting tank, and both tanks are equipped with two covered electodes.
+High voltage alternating current is applied to the electrodes.
+This method does not require any surfactant and the process is simpler than the emulsifying liquid film method.
+
+To begin with, the synthetic method was explained, and next, the function was described.
+The amount ofCu(II) adsorbed by the interface template resin with phosphate group increased with increasing pH.
+The adsorption isotherm ofCu(II) on an interface template resin with a carboxyl group was drawn.
+The amount ofZn(II) adsorption by the W/O interface template resin using dioleoyl phosphate as a functional group monomer increased with increasing pH.
+The title research was carried out, and the result was arranged.
+First, the molecular weight dependence of diffusion coefficient D of monodispersed polyisoprene (PI) at 298K was examined.
+And, high molecular weight PI was slightly mixed in low molecular weight PI, and D of high molecular weight PI was measured.
+Next, dielectric normal mode relaxation (R) of PI in the PI/polybutadiene (PB)/heptane ternary system was examined in order to examine how the entanglement effect reflects the fluctuation of the distance between both ends in the process which shifts from the dilute solution to the thick system.
+
+Reviews of R research carried out in 1986 and 1987 are also attached.
+FIB‐SIMS is a combination of SIMS with submicron resolution and GaFIB and multi‐channel detection system.
+GaFIB‐SIMS has high spatial resolution and uniquescan mode ( Shave‐off mode ).
+Shave‐off analysis, relative sensitivity coefficient, and oxide matrix effect in quantitative analysis are outlined.
+Inorganic microcapsule of 2〜3μm in diameter and nonmetallic inclusions in steel were analyzed.
+
+
+AVF930 has many kinds of isotopes, and can also produce nuclides for the SPECT such as 123I and 77Br, and metallic nuclides such as 28Mg, 42 and 43K, 52Fe, 56Ni, 61Cu, 62Zn and 95mTc.
+HM18 is mainly utilized for production of nuclides for PET such as 11C and 18F.
+Synthesis and elucidation of physical properties of new carcogenocarboxylic acid containing higher 16th group elements such as S, Se, and Te and its alkali metal salts and esters were carried out.
+
+
+These compounds were isolated and their spectral and X‐ray structural analyses were carried out.
+Various reactivities were also examined.
+Molecular and reaction dynamics of amedium density fluid ( supercritical fluid ) were studied in the picosecond region by the transient Grating‐TG method and the transient absorption method.
+The TG method in the nano and millisecond region was applied to the research of the dynamics in liquid crystals, interfaces, clusters, emulsions, medium density fluids, etc., and in addition, methods such as volume grating and cluster grating were developed, and the application was tried.
+
+Photochemical initial stage and dynamics of spin by CW and FT time‐resolved EPR were studied.
+
+They are an atomic force microscope (AFM), a magnetic force microscope, a frictional force microscope (FFM), an electrochemical STM, a transverse‐vibrational FFM, and a scanning near‐field AFM.
+Those principles and observation examples are shown in great numbers.
+
+The solubility of the monomer was lowered by continuously adding water to the homogeneous solution of water/ethanol/monomer, and a small amount of monomer was continuously separated in the whole system.
+Finally, a large amount of the monomer was uniformly absorbed into the monodispersed seed particles.
+
+The prevention of the generation of by-product fine particles in the polymerization was also examined.
+When energy is consumed by human activities, artificial waste heat and pollutant materials are produced, and in the metropolis, heat Islands occur, and these stagnate.
+The microclimate is generated near the ground surface.
+CO2, NOx, suspended particle materials, etc. become a problem for the discharge.
+
+These urban climate are formed because of high consumption of energy in a narrow urban area.
+The solar constant S is an important external parameter to determine the planetary climate.
+It is said that the atmospheric composition and climatic condition of Venus, earth, and Mars greatly differ depending on the difference of S.
+
+The numerical model used is an atmospheric general circulation model including a simple hydrological process.
+
+59 AMT measurements by the remote reference method were carried out.
+The underground specific resistance structure from the surface to 1000km altitude was obtained, and it was compared with existing geologic structure.
+As the result, the planar distribution of the specific resistance tended to extend in the NNW-SSE direction, and it agreed well with the geologic distribution.
+And, this paper presents that the Omagari fault can be estimated from the specific resistance distribution corresponding well to the result of electric logging.
+This paper summarizes the construction of hydraulic geologic layer model and underground water flow analysis method in the Horonobe Underground Research Project by the fiscal year of 2004.
+Based on hydraulic properties extracted from existing information, sensitivity analysis of underground water flow was carried out for 50-km square including Horonobe-cho.
+As the result, this paper determines the difference of sensitivity of recharge capacity and hydraulic conductivity about total water head distribution and underground water movement path.
+In the vicinity of the laboratory site area, dominant flow systems in shallow and deep sites were found.
+In the investigation using boring holes, this paper examines the result of hydraulic experiments and indoor hydraulic conductivity experiments.
+The results showed the depth-dependence of the hydraulic conductivity coefficient in all strata, especially in the Wakkanai layer, which was correlated with the presence or absence of fissure zones.
+Lakes and marshes are part of the groundwater flow system.
+The method for determining lake types from three hydrogeological factors (regional dominance, system efficiency, and lake location) suggested by Born et al. is also effective for evaluating the groundwater recharge function of the irrigation pond.
+
+
+We discuss the relation between the curvature perturbation spectrum generated on the brane after bulky inflation and the mass spectrum of the resulting primordial black holes in the Randall‐Sundrum type‐2 cosmology.
+We also discuss the blue spectral index of the curvature perturbation using the observed data of the extragalactic diffuse photon background.
+We present the mass spectrum of primordial black holes, which agrees with the standard spectrum in four dimensions on large scales.
+We also give constraints on the blue spectra and the reheating temperature, which are stronger than the standard four‐dimensional one.
+
+In the investigation, pits of about 1.5m deep were dug in total at 2 places near the top of the icecap and 1 place in the slightly downstream area, and snow was continuously sampled from the side.
+As a result of the analysis, it revealed that the yearly net increment in the Agassiz icecap is about 40cm as snow, and that there is a clear seasonal variation in the main ionic components.
+Therefore, it is considered that the past climate and environmental variation history can be clarified by analyzing and analyzing core samples collected by the same icecap.
+Research on the development of geothermal water in Japan started in 1955.
+The geothermal water market is a large market for the drilling and groundwater pumping industry in Japan.
+However, attention is necessary, because an accident may be caused by a hot spring well containing combustible gas such as methane.
+In addition, it is necessary to geologically analyze the formation and to prevent wasteful or harmful wells from drilling.
+Treatment and operation simulation of the eyeball using the finite element method were studied.
+Therefore, it was tried to make a finite element mesh from cross-sectional images of actual eyeballs.
+Serial cross-sectional images of the eyeball were obtained using a 3-D internal structure microscope.
+From the data, the eyeball tissue was segmented, and the mesh preparation was carried out by the digitization of individual data.
+
+As the result, the mesh preparation method suitable for the finite element analysis was established, and the mesh of the eyeball which divided each organization of the eyeball on the mesh was made.
+Many plants synthesize compounds called compatible solutes and accumulate them intracellularly in order to recover a balance of intracellular and extracellular osmotic pressure collapsed by inhibition of water absorption by salt stress and water shortage of plant cells by drying.
+
+Using the genetic engineering technique, the research was advanced for the purpose of improving the salt tolerance of the plant by introducing the betaine-synthesizing gene into the plant without the betaine-synthesizing gene.
+
+The iron accumulation mechanism in the liver was described in comparison with the iron repletion syndrome, and in addition, recent knowledge of the iron removal therapy was outlined.
+
+And, the iron absorption from the duodenum is being adjusted by transporter (DMT-1 and ferroportin-1) of the duodenum.
+That the hyperferremia is based on the abnormality of these genes is clarifying.
+Recently, hepcitidin and hemojuvelin have been found to control iron absorption from the duodenum.
+
+The expression of the mouse HSFV-like sequence (mHSFYL), a mouse ortholog, was analyzed by insitu hybridization and found to be expressed mainly around sperm cells in the testes.
+The species with the genes similar to HSFY/mHSFYL were searched by the database, and recognized in mammals such as cattle, dog, chicken as well as human and mouse.
+The intracellular distribution was examined by the expression of HA or mHSFYL labeled with GFP in the COS1 cells, and the localization in cell nuclei was recognized.
+These results suggest that HSFY/mHSFYL has an evolutionarily conserved function in spermatogenesis.
+The effect of 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) on intestinum tenue was examined concerning form and function.
+The nucleus/cell ratio in the epithelial cells of the small intestinal villus tended to increase by TCDD treatment.
+As a result of examining the effect on the glucose absorption power, the glucose absorption power in intestinum tenue increased in the TCDD exposed C57BL/6J mouse.
+Possibilities such as the increase in sugar transporter SGLUT1 and glucose transporter 2mRNA, the increase in SGLUT1 protein, and the increase in lactase and maltase activities are indicated.
+It was indicated that the promotion of the glucose absorption power was the mechanism which compensated for decrease of the internal sugar utilization efficiency by the dioxin.
+In the life activity, there is dynamic life activity which can not be simply estimated from gene sequence and functional analysis of the protein.
+As the representative example, space pattern formation such as the chromosomes structure was taken up.
+Using the chromosome band number as information of the chromosome position, the chromosome whose number was assigned was collected, and whether there is the functional position was examined.
+As the result, there was not always the coincidence on position and chromosome position of the one-dimensional genome.
+It was proven that the index which can surely define the position of the high order of the gene than the chromosome band had to be used as information of the chromosome position.
+Trophic levels of two species of Quercus serrata saplings (Q. serrata and Q. mongolica var. grosseserrata) damaged by two species of insects were compared for their response to soil fertility compensation.
+
+After that, the branch was grown in the plots with different soil fertilities.
+Growth of bud and growth of branch were dependent on Quercus serrata original factor, and the correspondence to eating damages was controlled by individual level.
+The growth of secondary and tertiary branches damaged by eating was significantly low when soil fertility was low.
+It was expected that it could be well compensated for when the fertility was high.
+We report the cytophilic micro-patterning of an Au surface for a biosensor array using PEG with methoxy and thiol end groups.
+The Au surface was treated with buffer solution of MeO-PEG-SHs with molecular weight of 2k and 5k to form a cell repellent surface.
+Next, the micro cytophilic array was formed by the plasma etching technique.
+The cell culture test was carried out on the array.
+A cytophilic microarray with diameters of 10 μm and intervals of 100 μm was formed.
+
+Center of gravity oscillation characteristics in the plantar in-plane was examined using the center of gravity oscillometer.
+
+In this case, the transfer distance of the center of gravity rapidly increased in the front-back direction (or both directions), and it came to overturn.
+
+
+Whether fetal growth determines postnatal growth patterns and body compositions was analyzed for the school detection survey medical examinees in Tenryu City.
+There was a sex difference in blood leptin levels of low-birth-weight children.
+And, it is indicated that birth weight (prenatal growth) decides the postnatal growth pattern.
+These results indicate that prenatal environments are important factors determining postnatal growth patterns and body composition.
+The increase of metabolic syndrome including the obesity becomes a social problem.
+Netea et al. reported that IL-18 works for obesity and insulin resistance inhibitoryly.
+Authors compared IL-18 knockout mouse and wild type mouse.
+As the result, body weight, somatic fat rate and food intake increased on the IL-18 knockout mouse over the 6〜24 month.
+That is to say, it was shown that the deficiency of IL-18 was connected with obesity.
+Among the gene abundantly expressed in primordial germ cells (PGC), the gene with the seventh highest relative expression level was named PGC7.
+This is the same as the gene Stella later reported from Kembridge University.
+Subsequent studies revealed that PGC7/Stella functions not in the oocyte maturation process but in the nucleus at an early post-fertilization period.
+In addition, PGC7/Stella was found to inhibit demethylation.
+As grasping force measuring method for knowing the patient level of function recovery, the development of the sensor using the change of optical propagation characteristics by the shape change of the fiber was tried.
+The measuring sensitivity was 6.88mV/kg, and it was proven that 500g or less, which can not be measured by the Smedley method used at present, can be measured.
+Measurement accuracy of the finger joint angle is 5 degrees.
+The measurement range and sensitivity are changed by changing the shape of the part receiving external force.
+Features of taurine intake of the human glioma cell were examined using the T98 cell.
+Taurine intake by T98 cells wasNa+ dependence and high affinity systems were reduced by the administration ofphorbol ‐ 12,13 ‐ dibutylate (I,100nM) or isoproterenol (1μM).
+Pretreatment with H‐7 (100nM) for 30min increased the EC50 of the reducing effect of taurine intake from 41 to 83nM.
+These results suggest that protein kinase c and cAMP are involved in the taurine intake.
+
+The apparatus manufactured for trial was actually used for a long time to evaluate its performance and operativeness.
+And, the establishment of cell fixation process suitable for the equipment was studied.
+
+For practical application, 10 improved points on performance, operativeness, appearance, noise, etc. are indicated.
+Galactose α1→3 galactose (GG) is specifically stained by GSI‐B4 lectin (GS).
+
+
+There were many proteinuria, depilation, low body weight and sudden death in this mice.
+
+In addition, the total synthesis was stereoselectively achieved on dimethylarosamidine of I of yeast K using the intermediate of the above synthesis.
+The inhibitory activities of Bembycidae, Saccharomyces cerevisiae and Trichoderma genus K were compared.
+Useful knowledge on interrelation of structural activity was obtained.
+Activation of congenital immunity induced by IL‐12 and related cell group are described.
+IL‐12 is a differentiation factor which shows the activity which is common for a T cell group with the different positioning on the phylogeny.
+In the cancer immunity, the action which stimulated the rotation of the sequence which is connected with the antigen peculiar recognition by cancer peptides, etc. seemed to be also able to be expected from the MHC unconstrained recognition.
+
+Using the irradiation device for the cell connected to the beam line of the 3MV tandem accelerator, it has been verified until now that the ion range in the target can be controlled by the distance from the beam window to the target.
+The effect of penetrating power controlled irradiation on tobacco pollen as a model cell system for local irradiation was investigated.
+\"The pollen with the leakage\" which seemed to originate from the cell membrane damage was observed high-frequent in the terminal of the ion range.
+When dried pollen (20 μm) heavy ion‐irradiated was dyed with acetocarmine, leaked pollen was observed, but not with gamma ray‐irradiated pollen.
+The effects of he and C ion on the frequency of leaked pollen at several distances from the beam window are illustrated.
+
+We examined the effect of peristaltic flow on 3D TOF MRA angiography using a phantom.
+In the pulse flow, the signal intensity in the fluid part (especially in the peristaltic flow) was lower than that in the steady flow due to the effect of the signal lowering by the phase dispersion.
+The signal lowering by the peristaltic flow was obvious in stenotic region and flexal of blood vessels.
+The interval between ghost artifacts due to peristaltic flow was proportional to the repeating time and the pulse rate.
+Geographical distribution and clinico‐epidemiological features of the titled virus (C) are different by genotype.
+The interferon sensitivity seems to be regulated by multiple factors.
+The degree of severity of hepatitis may be different by the genotypes.
+The significant correlation with the primary hepatic cancer is not recognized.
+The mutation of C is also abounding except for the genotypes, and it is possible to distinguish the C strain of each patient and to examine the route of infection based on it.
+Nonlinear phenomena represented by chaos in fractal can be quantified by numerical analysis.
+Fractal analysis of events‐potentials related to events was performed and the results were used to investigate the fluctuating conditions of intelligent activities.
+The peak corresponding to N100 or P300 is not clearly shown.
+This suggests that fractal analysis is more suitable for detecting changes in induction quantity than peaks.
+It is a problem that a balance of the autonomic nervous function is hurt by exposing to the microgravity.
+
+The sweat rate by the handgrip (for 5 seconds in largest grasping power) in HDT significantly lowered in sitting position in comparison with the case without the back oppression, but in the mental calculation load, the difference could not be recognized.
+These results suggest that sweating during HDT differs between psychogenic load and exercising load.
+In the normal cells, the telomere is shortened, when it divides, and the cell ages, when it exceeds some extrema.
+On the other hand, in tumor cells and immortalized cells, telomere is complemented because of telomerase activity, and unlimited multiplication ability is acquired without further shortening.
+Therefore, the gene which controls the telomerase activity is regarded as one candidacy for the cellular aging induction gene.
+The possibility that unknown telomerase controlling gene exists on3 chromosome 3p14→p21 is indicated.
+The active electrode with the transmission function which deduced the surface myogenic potential without using pretreatment and conductive paste of the skin was produced experimentally.
+This cordless electrode was able to reduce the burden of the experimenter, because there was no lead wire which connected the electrode like the conventional telemetry system with the transmitter.
+And, it is not affected by the noise by the reciprocation of the lead wire.
+It can be applied to electrocardiograms and brain wave measurements.
+Telomerase activity is high in reproductive cells and cancer cells.
+Using elongation PCR assay which authors developed, telomerase activity of normal and canceration blood cells was analyzed.
+The activity was high in the cells of young individuals, especially in those of the newborn infant, and was very low in those over 30 years of age.
+It was very high in leukemia cells.
+Based on the materials of Marcel T and Grausz D, present conditions of the gene therapy are introduced.
+Since gene therapy was first applied to human in 1990, the number of subjects has been rapidly increasing year by year.
+At the beginning, the indication limited to severe intractable diseases is gradually expanding to chronic diseases as the safety is confirmed.
+The situation that the research of the gene therapy has been developed in 3 directions of development of gene transduction method, research on the strategy, development of the model besides was described at present.
+A case of administration of the above drug (L) to a 41-year-old woman suffering from systemic lupus erythematosus and receiving steroid therapy is reported.
+Subjective symptoms included coolness and pain in the right lower leg, and ulcers with necrotic tissues appeared in the right anterior shin bone, which were gradually exacerbated.
+The pain was relieved, when L was infused in respect of 10μg/day for 4 weeks with wound treatments such as the cleaning in the ulcer division, and the ulcers of the lower leg were reduced.
+No side effect was observed during the treatment.
+CGRP is secreted from the sensory nerve region to the heart muscle.
+48‐hour administration of CGRP increased the surface area of new born rat myocardial cells about 2‐fold.
+
+These results suggest that CGRP is a potent hypertrophic factor for myocardial cells.
+The walking conditions for flatland and slope way were measured in order to obtain the data in which the artificial leg foot would be able to adapt for walking mode except for the flatland.
+Bending moment and subjective evaluation obtained by semiconductor strain gauge stuck to the lower leg pipe division were collected.
+The angles of the base dorsiflexion were adjusted to the slope inclination angles of 5 ° and 7 °.
+In the slope way walking, the walking was the easyest, when plantar flexion and dorsiflexion were changed in proportion to the angle of the slope way.
+Using image information and knowledge of form and motion for the measuring object, the method for measuring the action without mounting gauge marks, etc. was developed.
+The walking of the horse was photographed from the side, and dimensions and positions of the geometric model were decided from 1 image of the horse by the hand method.
+The luminance distribution of the geometric model area was acquired, and the template was made.
+After the following images, geometric models were superimposed on the image for every segment, and the joint position and joint angle of the horse at that time were made to be the joint angle.
+This paper describes speeding up, robustness evaluation, and accuracy of the processing.
+Simultaneously, emotional sweating quantity and heart rate in giving the preparation of the program as a mental stimulation were measured, and the correlation of both was examined.
+There was considerably the correlativity between normalization dispersion value of emotional sweating quantity under 2 kinds of programs preparation and dispersion of the heart rate.
+And, there were the case in which there was the high correlation between normalization dispersion value and dispersion of heart rate of emotional sweating quantity under program preparation and case in which there is seldom the correlation.
+Further experiments seemed to be necessary.
+The complicated interaction of immune system and PCV2 of the pig was outlined.
+This paper introduces the evidence that PCV2 is the main pathogen of pigs under appropriate environment and management conditions.
+Extensive stimulation of the immune system is an essential condition to inducepig multiorgan-underdeveloped after weaning syndrome(PMWS) in PCV2-infected pigs.
+PCV2 itself is an indispensable pathogen in lethal PMWS.
+In PMWS-contracted pigs, effective immunological response to pathogens other than PCV2 is insufficient.
+On the immunosuppressive condition in PMWS, PCV2 may be an important factor of the secondary immunodeficiency under some fixed environments, based on the clinic, pathological and immunological observation observed in the field.
+Collection survey was carried out in reef coasts in the northern region of Ibaraki Prefecture.
+Large species were collected directly, while small species were collected by sieving the net and bottom soil.
+
+
+Since the investigation was limited to the intertidal zone, the number of species obtained was small.
+Including the survey result until now, this paper arranges the collected species, collection sites, and collection dates.
+This paper carries out a field survey of 5 regions where the degree of vitalization seems to be high to examine an evaluation method for vitalized vitalization of agricultural village region.
+
+
+
+In the analysis of the questionnaire, it was clarified that there was a difference between the activation level directly calculated from the statistical index and the overall evaluation.
+In the covariance structure analysis, it revealed that direct effects (production activation effects) of social capital are high in regions except for cities and suburbs.
+The following are outlined on swordfish in the northwest Atlantic region: Movement for recent one year, utilization and application, outline of fishery, biological characteristics, resources situation, and control measures.
+The catch of swordfish in the world for recent 5 years was 9552-12,283 tons.
+
+Either analytical result shows good entry after 1997 and resources recovery by the decrease in the catch, and the good entry is expected in future, if the excessive fish catch is avoided.
+In ICCAT, the recovery plan which returns the resources level to the MSY (maximum sustainable production) level at the probability over 50% for 10 years in 2000〜2009 is being made.
+
+This paper outlines sea turtles and the background of fishery, biological characteristics of sea turtles, and present conditions of resources and control measures.
+Sea turtles are all the species reported in the appendix I of the Washington Treat lists.
+
+The decrease in the population may have been caused by improper management, etc., and it is necessary to promote the sea turtle protection by the cooperation with specialists.
+The three-dimensional exploration takes cost for measurement and analysis, and it has not come to the practical application.
+This paper considers a labor-saving type three-dimensional electrical exploration method capable of analyzing three-dimensionally a small number of two-dimensional exploration traverse line data placed in the exploration range, and reduces analytical error originated from the three-dimensional heterogeneity of ground.
+This method is lower-cost than conventional three-dimensional exploration, and moreover, it is possible to grasp the underground structure in high-efficiency and high accuracy.
+In the field, this method can be utilized by the conventional technique, and three-dimensional exclusive equipment is not required.
+Conditions for the establishment of agriculture with a sound hydrological cycle were examined from managerial and economic viewpoints.
+Noticing groundwater recharging function by paddy field impounding activities in rural area along river basin, water resource conserving effect in downstream region was evaluated.
+The interview survey for the farm managers was carried out, and the theoretical examination on the formation condition and application to the actual condition were examined from the analytical agricultural management learned viewpoint and the environmental economics viewpoint.
+As a result of the examination, this paper explains the outline of the elucidation on economical and social conditions for the establishment of water conserving hydrologically sound agriculture.
+For quality maintenance of rose cut flower, new drug prescription (GlcA) using isothiazoline system antibacterial agent was developed.
+The liquid mixture CMI/MI of 5-chloro-2-methyl-4-isothiazoline-3-on and 2-methyl-4-isothiazoline-3-on was used as an isothiazoline system antibacterial agent.
+The optimum mixing ratio of GlcA was 10g/l for glucose, 0.5ml/l for isothiazoline system antibacterial agent, 30mg/l for citric acid and 50mg/l for aluminium sulfate.
+By this prescription, the moisture permeation property was kept at the level right after harvesting, and the quality preservation period was extended further than the conventional prescription.
+Three tests on proteome analysis and metabolome analysis for examining the stability of transgene in genetically recombinant crops were carried out.
+First, qualitative and quantitative dispersion of RNA expression as an obstacle of transcriptome analysis, which is the first step of these analyses, was examined by microarray analysis using germinating soybeans.
+As the result, there were individual specificity and difference of RNA expression by the extraction method in the local varieties.
+
+In addition, it was confirmed that there was an individual difference of the RNA expression in the identical variety even in the import variety of gene recombinant soybean using this technique.
+A Kura Long Bridge of 145m in span length and 5m in effective width using large section laminated wood was completed in Hiroshima Prefectural Central Forest Park.
+This paper adopts a system capable of making a large span by jointing more than two members.
+This method is complicated in order to combine various members such as connecters from a simple girder bridge.
+Creosote oil is injected as a corrosion prevention measure, and junctions of the truss member are all bolt‐jointed.
+
+This paper analyzes the present state of agriculture and forestry in Higashimura, and grasps problems.
+This paper mentions the conditions to be provided as goods.
+
+
+
+
+The result of the third mountain village promotion business of Daisen Town is almost same as the plan except for the field improvement.
+On the improvement of living environments, the improvement situation and improvement direction of facilities such as dwelling house, road and traffic are described.
+This paper clarifies the present state of production and sale of agriculture and forestry, and describes the promotion of local industries and the development of special products.
+
+Future issues such as creation of business opportunities related to mountain village promotion, upbringinginginging of new industries and establishment of semi‐sectors in charge of various business are indicated.
+Soil productivity fluctuation by Andosol plowed field improvement material and soil productivity improvement measures were examined.
+In cabbage, the increased productivity effect was recognized by the organic fertilization, and the utilization factor of input nitrogen decreased in the organic fertilization zone, but the utilization factor of nitrogen, phosphoric acid, and potassium of the compost was different by the type of compost and olfactory manure.
+
+
+The effect of mixed feed supply in nurture or breeding periods on dry material intake and growth speed was examined.
+
+
+There was no difference in first gastic juice, blood characteristics, and reproductive ability.
+Overpackaging and environmental pollution by waste become a serious problem.
+As one of the countermeasures, the development of biodegradable plastic for container and packaging material is examined.
+Present state and prospect of the development of the biodegradable plastic which made petroleum or natural macromolecule chemical compound to be a raw material were arranged.
+
+Application of biodegradable plastic to food packaging, related laws and regulations, and safety of products after decomposition are also mentioned.
+
+The effect of early leaf abscission on flower bud character and the relationship between growth characteristics and yield of high production tree were examined.
+As an induction technology to the suitable growth and maturation pattern, the utilization of plant growth regulators was examined.
+PP‐333, S‐327D, improved C‐MH and KUH‐833 were available for prevention of current shoot spindly growth.
+
+
+
+The blast disease field resistance is moderate to rice leaves blight.
+The Shimajiri group mudstone in Okinawa is classified as Neogene mudstone.
+In the mudstone region, cases in which S S concentrations of turbid water discharged from the development project site exceed 10,000mg/l frequently occur.
+
+Regarding the runoff mechanism, slaking was a main factor in cutting sites, and water erosion and collapse of creaked portion were also observed.
+On the other hand, large gully growth due to water erosion was observed at the banking sites.
+Soil hardness directly or indirectly affects the root growth of crops.
+The relationship between root extension and soil hardness has been evaluated by indirect measurement of soil hardness.
+
+As the result, it was indicated that soil hardness by the pin penetrometer enabled the measurement on the penetration of the root, and that the penetration of the root was affected by not only soil hardness but also pore of the soil.
+From the result of manuring irrigation experiment, the total population of large soil animals in the pasture sprayed with slurry was less than that in the chemical fertilizer zone, but it increased in the fourth year.
+Acarine and Collembola were not extracted in the fourth year.
+Nematodes decreased in the 4th year in the chemical fertilizer zone, but the proportion of animals to eat root increased in all zones, probably due to the development of the pasture grass root group.
+The soil microflora of the slurry sprayed zone was more bacteria and Actinomyces but less cellulose decompositin rate and mold number than that of the chemical fertilizer zone.
+
+
+
+They contain the outline of development and trial manufacture of mulch paper and rice transplanter based on the result and these.
+
+This paper describes the background of the establishment of the titled \"individual horticultural products section\".
+This paper explains the installation of \"individual horticultural products section\" such as progress situation and approach in the installation.
+Finally, this paper explains digging of handling goods and future directions.
+In 160 head breeding farmhouse of Japanese black, 14 heads contracted disease in 26〜33 months age, and 2 heads died and 4 heads were shipped at early stage.
+One dead cattle and one shipped cattle were subjected to pathological and bacteriolgic inspection, and the disease was diagnosed as the titled disease.
+In the examination of feces of 9 heads, Coccidia oocyst was detected from 8 heads.
+It is considered that the mucosa was damaged by the parasitism of Coccidia, the environment suitable for the growth and breeding of Clostridium perfuringens was produced, and the aberrant growth was caused to cause the death, and the shipped cattle caused the necrotizing enteritis.
+
+
+
+However, the abnormality of M gene discovered until now is about 20% of M, and the remainder part is unknown.
+perivascular space(PVS) ofcerebral hemisphere white matter artery(medullary artery) by high-magnetic field MRI (1.5T) was depicted in fiscal 2000 for asymptomatic cerebral infarction patient of 20, normal man of 10 and infant of 21 examples without the neurological abnormality.
+The PVS showed the opinion of fundamentally regular limbic, clear boundary, no change in the circumference, largest diameter 3mm or less, along the artery in the cerebral parenchyma, etc..
+PVS has been expanded with the aging.
+PVS of the medullary artery was markedly dilated in multiple lacunar infarction cases.
+In the example with the hypertension, the expansion was strengthened further.
+These findings indicated that PVS of medullary artery was more expanded with the progress of medullary arteriosclerosis.
+The defective part of acetabular cartridge bone was reconstructed by the homogeneous bone transplantation, and the cementless socket had been installed directly on it.
+The operation which used support ring jointly has been carried out since 1984 in order to prevent the collapse of the grafted bone in the postoperative.
+Technique and X-ray support-ring results are outlined.
+45 joints of 42 patients (12 men and 30 women, 40〜82-year-old) were operated.
+
+Component is stabilized at the installed position, when grafted bone is implanted and remodeling is completed.
+
+
+The paste of OCP was fused to the dentine surface, not only occluding the dentinal tubule but also specifically occluding the dentinal tubule circumference.
+In the carbon dioxide laser irradiation, the possibility of strengthening dentine plane after dentine hyperesthesia and caries treatment was indicated, because the fusion layer was formed in the dentine by the calcium phosphate salt coating.
+The congenital vascular anomaly theory has ever been advocatedBudd-Chiari syndrome(BCS).
+
+In this study, the gene polymorphism of codons 830 and 897 of factor V was examined in Japanese BCS cases and Nepal BCS cases of the sample preservation center.
+Gene polymorphism of factor V was found at 6 sites, of which codons 830 and 897 were missense mutants.
+For 31 cases and 58 lesions in which the hepatic tumor was indicated in other inspection, diffusion weighted image (DWI) which is the latest MRI imaging was carried out.
+The depiction by the DWI was difficult for total of 10 lesions of 4 lesions of the tumor size of 5mm or less, 3 lesions around 1cm, 3 lesions around 2cm.
+Cases which were not depicted at the size over 1cm were the case which was close to the diaphragm or the case after the treatment of primary hepatic cancer, etc..
+It was shown that it was able to be expected to depict the tumor with the size over 5mm and was useful for the diagnosis by the combined use of other MRI photographing technique and test methods.
+
+Objects are 20 cases of 46 lesions which enforced CTA of the lower limb of arteriosclerosis obliterans.
+As the result, the case in which the 3D image was inferior to the original image in both central group and peripheral group reached the half.
+
+In advanced calcification group in which the calcification reached the whole circumference from the 3/4 circumference, the difference was near 60%, and it was proven that the difference spreads for the evaluation.
+On 16 positions with the collateral vessel, 3D image in which 15 positions were equal to the original image was obtained, when 3D image was compared with the original image.
+Repairability of the articular cartilage, repair by bone marrow stimulation and repair by the autologus cartilage cell transplantation are described.
+Repair of osteochondral defect by aotologus bone marrow stromal cell transplantation in rabbits is described.
+Results of the repair of cartilage defect by autologus bone marrow stromal cell transplantation in human are explained.
+The good repair result was recognized in the cell transplantation group.
+Future problems such as selection of cell population for transplantation, administration of growth factor and gene introduction are explained.
+
+
+There was no change in the average dust number of the operating room during non-use.
+Though there was no significant change in the average dust number of the ICU, the frequency under NASA class 10,000 increased.
+On air-floating fungus number and dropping bacterial colony number, the change was not recognized before and after the introduction of the a-pair-of-shoes system in both operation room and ICU.
+It was indicated that the a-pair-of-shoes system did not affect the air cleanliness in the operating room and ICU where the air conditioning equipment was perfectly provided.
+Development and in vivo test of the hydroxyapatite based porous artificial bone material are reported.
+The apatite hydroxide porous material which optimized the diameter of bubble and continuous through-holes by the foaming slurry method was developed in order to ensure excellent bone conductivity and strength.
+As a result of animal tests and clinical trial, excellent results have been obtained.
+It also has high applicability to bone regeneration using myeloid cells.
+The article reports the preparation of artificial bone with bone-like nanostructure by the utilization of soft nanotechnology under mild conditions.
+By optimizing conditions such as pH and temperature, the apatite/collagen fibril composite material in which the orientation direction was aligned from the solution of phosphoric acid, calcium and collagen was prepared.
+By mixing this composite material with the collagen solution, the soft material of the sponge state was produced.
+By the animal test, excellent bioabsorbability and bone regenaration characteristic have been confirmed.
+
+Treatment outcome of elbow joint TT11 cases is introduced.
+The bloody treatment was enforced in 10 cases, and the conservative treatment only of the gypsum fixation was carried out in 1 case.
+By positively osteosynthesis of radius head fracture and elbow bone protrusion fracture, the result was comparatively good.
+It is desirable that postoperative external fixation is kept within 2 weeks.
+Ligament reconstruction for anterior cruciate ligament (ACL) of the knee has accomplished the remarkable advance.
+Basic research of recent ACL ligament reconstruction is described.
+Examination of joint kinematics after ACL reconstruction using robotics and examination of postoperative grafting tendon healing acceleration effect using growth factors are outlined.
+TGF‐β, EGF, PDGF and VEGF are promising as growth factor.
+As an application of the tissue engineering cell therapy to the ACL reconstruction, the application possibility to the knee ligament reconstruction using fibrin sealant is high.
+
+Recurrence sites, test method of the lymph node recurrence and selection of the therapy for the lymph node recurrence in the thoracic esophageal carcinectomy cases are described.
+Diagnosis, lymph node dissection and postoperative course for the cervical lymph node recurrence are described.
+The adaptation of the operation for the lymph node recurrence of mediastinum and abdomen is explained.
+Lymph node dissection for lymph node recurrence after the chemoradiation therapy is described.
+Kinship amyloid polyneuropathy (FAP) is not the disease with the region specificity, and it is the disease in which the frequency is comparatively high in inheritance neuropathy of our country.
+In Japan, over 60 patients have already been receiving this treatment.
+
+
+FAP has been recognized to be able to escape from intractable disease by popularization of gene diagnosis and introduction of liver transplantation as a treatment.
+Though it is rare to experience the non-specific reaction in the routine test, it is nil to examine to the cause retrieval and to improve the reagent.
+This time, the cause of the non-specific reaction was examined in the measurement of HBs antigen (Ag) and HBe antigen of the hematologic disease, and the improvement on the reagent was experienced and introduced.
+The measurement of HBs antigen, antibody (Ab), HBe antigen, antibody and HCV antibody was started by ELSIA-F750 automatic immunity measuring device based on the principle of ELISA (enzyme-linked immunosorbent assay) from June, 1997.
+
+For the purpose of confirming whether the primary reaction has already combined the unspecific substance from measurement process and each reagent composition and observing the difference by the reagent composition between items, each item was measured in exclusive measurement container of F-750 in which the antibody protein has not combined.
+
+Recently, non-alcoholic fatty hepatic disorder (NAFLD) increases rapidly by the change of the lifestyle habit.
+Obesity and insulin resistance are main etiology of NAFLD, and most cases have combined lifestyle-related diseases.
+Though NAFLD is the fatty liver, and the disease state does not progress, about 10% of it is nonalcoholic steatohepatitis (NASH), and it progresses in liver cirrhosis and hepatocellular carcinoma (HCC).
+In this paper, NAFLD and natural course of NASH were described, and fibrillation of NASH and the seriousness predictor and liver cirrhosis were described, and relation between obesity and NASH and relation of HCC were described.
+The titled cases of a 54-year-old woman and an 84-year-old woman are reported.
+In case 1, anti-cancer drugs leaked extravasation during chemical therapy after the operation of ovarian cancer, resulting in reddening, induration and skin ulcer.
+In case 2, reddening, induration and skin ulcer were produced under chemical therapy for liver metastasis of rectal cancer.
+Conservative treatment is performed in both cases.
+Surgical treatment is done when the boundary of the lesion is clarified.
+The postoperative course was good in both cases.
+On 3 cases of lumbar spinal canal stenosis which produced the paraplegia, it was examined with postoperative result and factor concerning it.
+Cases are 86-year-old women, 73-year-old men, 3 cases of 73-year-old women.
+The significant improvement on the paralysis in the postoperative was not recognized in all 3 cases.
+It is considered that the long period to the operation was the result bad factor on case 1 and 2.
+In the meantime, it is considered that the result was bad, since there was the advanced paralysis of MMT1, though the period to the operation was short in cases of 3.
+In the disease state including cauda equina type with the bladder dysfunction, from them, it is considered that the case in which the period to the operation is long and case in which the paralysis is advanced are not always obtained the significant improvement on the paralysis by the operation in the elderly over 70-year-old.
+
+The initial diagnosis patient number counted 808 persons in 3 years and 1 month from the establishment to October 31st, 2005.
+The following were outlined: History of the establishment, flow of the medical care, needs of the medical examinee, medical care outline, networks inside and outside the hospital.
+And, present problems (talent training and self-study of the doctor, feedback to the gender specific medicine) and future prospect were outlined.
+The screening MRI was reexamined, and especially, the intervertebral disk high signal in which the frequency seemed to be the highest on the case diagnosed as an infectivity myelitis was examined.
+Within T2 stress images of lumbar MRI of 684 cases (man of 355, woman of 349, 5 months〜89-year-old), the case presenting the intervertebral disk high signal was recognized in 298 cases.
+Following the opinion of the purulent spondylitis, shape and high signal pattern of the intervertebral disk in the T2 stress image were classified into 7 patterns.
+As the result, there were 8 cases without the impression like the purulent spondylitis, while T pattern of the point state high signal in the flattening unmade low signal intervertebral disk with the typical signal strength was shown.
+In these cases, soft tissue hyperplasia and abnormality in end plate signal strength could not be observed.
+In addition, there is some a case presenting the pattern observed of deformative lumbar disease and compressed fracture and pattern observed of normal intervertebral disk and lumber vertebrae herniated disk, and it is necessary to synthetically diagnose together with soft part shadow and pyramid abnormal signal strength.
+Indication of the conservative treatment for carpal tunnel syndrome (CTS) is different by subjective symptoms such as seriousness, contraction periods, age and numbness in the initial diagnosis.
+There is a case in which the conservative treatment operation is advised without sticking to the elderly person who makes the pain to be the chief complaint.
+As a practice of the conservative treatment, steroid injection and apparatus therapy are compared.
+
+CTS is abounding for the elderly woman, and the life guidance is important, when there is the overuse of the hand.
+The operation is advised, if there are continuous and strong numbness and pain.
+Side effects of the oral anticancer drug widely used in mammary cancer ambulatory treatment and the countermeasures are outlined.
+The positioning of the oral anticancer drug in the mammary cancer treatment was described.
+As the characteristic side effects of oral anticancer drugs and the countermeasures, antimetabolites (anorexia, nausea and vomiting, bone marrow suppression, etc.) and alkylating agents (hemorrhagic cystitis, etc.) are mentioned.
+In addition, interaction and points in patient compliance instruction are shown.
+The usefulness of serum interleukin 18 (IL-18) concentration as a clinical parameter in the burn was examined.
+The total burn section area (TBSA) and burn index (BI) were 27.1% (1‐93%) and 19.6%, respectively.
+The IL-18 concentration showed the negative correlation with TBSA, Bi, leukocyte count on the traumatism first, and positive correlation with TBSA, BI, leukocyte count, C-reactive protein on the traumatism seventh.
+The oxygenation index showed negative correlation and the seriousness (SOFA score) showed positive correlation.
+And, the average of the survivor was lower-valued of 626pg/mL and mean value of the survivor than the deceased on the average of the survivor, while the average of the survivor was 334pg/mL.
+The possibility of being useful as a clinical parameter of inflammatory reaction by the burn was indicated the serum IL-18 concentration.
+The result by total hip arthroplasty (THA) has been stabilized in the metaphase.
+For orthopedists, it is an important duty to prevent complications.
+Disease state of postoperative dislocation is explained.
+Factors of the dislocation are insufficient centripetal force between socket and bone caput and collision (impingement).
+
+
+Hereditary third complement factor (C3) deficiency is a very rare disease.
+This time, as a result of the blood examination of 7-year-old boy who recognized the abnormality in the school urine test, C3: 0mg/dl, C4: 18mg/dl, CH50: 16U/ml were recognized.
+The hereditary C3 deficiency was suspected, because parents were in the blood relation, and family, brother were searched.
+
+In the literature, 9 cases have been reported, most of which were blood-related parents and the mutation was homozygote.
+Whether hereditary C3 deficiency is less frequent than other complement deletions and why homozygous mutations are more frequent are examined from the biosynthetic process of C3 molecule.
+Thyrotoxicosis is explained.
+This paper describes etiology, classification and symptoms of thyrotoxicosis.
+Treatment of Basedow disease (side effect of the antithyroid drug and the antithyroid agent, radioiodine therapy, surgical remedy), diagnosis and treatment of Plummer disease, stimulation of hCG, iodine inductivity and toxicosis due to the thyroid hormone intake are described.
+In addition, the advice to the resident is shown.
+Merit and demerit of the clinical pathway are described.
+Problem in applying the clinical pathway for the esophageal cancer operation and esophageal cancer case which adapts the clinical pathway are described.
+With regard to the clinical pathway for the medical staff for the esophageal operation, features, preoperative care, postoperative ICU, postoperative care in the ward and ingestion are explained.
+The clinical pathway for patients for the esophageal cancer operation is explained.
+Record and analysis of the variance are described.
+It was indicated that to clarify the problem by the analysis of the variance was useful for the improvement in the medical quality.
+This paper explains the autopsy imaging (Ai) technology including the image photographing.
+By utilizing the AI technology, it is possible to supplement the lowering of the autopsy rate.
+And, the power is also demonstrated for the crime investigation, and the specification of cause of death becomes also possible.
+AI is the fusion of pathology and imaging diagnosis technology, and the difference from the anatomy is shown.
+Within 1621 persons who had in respect of inhabitant detection survey of the Hisayama town in Fukuoka Prefecture medical examination, possible 937 persons of judging the angiotensin-converting enzyme gene polymorphism were tracked for 32 years.
+DNA was extracted from blood samples of survival cases, paraffin samples of pathologic autopsy cases and fresh frozen samples, and the angiotensin-converting enzyme gene polymorphism was judged by the PCR method.
+During the follow-up period, 176 patients died of malignant tumor.
+The death rate due to the malignant tumor increased with an increase in the smoking level.
+When the relation between smoking and tumor death was examined according to angiotensin-converting enzyme gene polymorphism, the effect of smoking in DD type was about 2 times larger than that in II and ID types.
+It is indicated that the effect of the smoking on the tumor death is different by the angiotensin-converting enzyme gene polymorphism.
+In this hospital, the system which efficiently checked the bringing medicine for all hospitalized patients was examined, and \"the bringing medicine confirmation corner\" was set up before the medical business section hospitalization receiving clerk from April, 2005.
+In addition, bringing medicine check business which arranged the pharmacist in the same corner in proportion to the patient hospitalization schedule hour was introduced in this paper.
+In the system of this new hospital, about 80% of the hospitalized patient in a day can be checked in only 2 hours, and in addition, about 91% of the patient with the bringing medicine can be confirmed only by the check in the same corner.
+It was explained that the system of this hospital was one of the efficient bringing medicine check system and that it is the timing which can appeal the occupational ability of the pharmacist to the patient most.
+
+
+In this paper, the challenge of Ge medical supply of our company was outlined.
+In the future, it was explained that not only the activity in search of use promotion of the Ge medical supply but also the effort which raises the reliability including the quality of the Ge medical supply were necessary.
+A case of Akatuki disease in a 45-year-old woman is reported.
+There would be the efflorescence in the face after the use of the new cosmetic.
+
+The symptoms were improved 2 months after the administration.
+The patch test of the cosmetics was positive.
+Contact dermatitis and Akatuki disease by the cosmetics were suspected.
+Selection of the therapy suitable for the disease state is necessary, because the disease state of RSD is not uniform.
+As a method for judging the mechanism of the pain, the drug challenged test (DCT) is described.
+As an occurrence mechanism of neurogenic pain, the following are outlined: Occurrence of heterotopia nerve ignition, involvement of sympathetic nerve, change in posterior horn of spinal cord, sensitization of secondary neuron and memory of pain.
+Method of DCT is explained.
+Phentolamine, morphine, lidocaine or naloxone are used as test agents.
+Afterwards therapy is mentioned.
+For idiopathic pulmonary fibrosis (IPF) patient of 14 examples and patient of 8 examples of hospitalized of the IPF acute aggravation, virus inspection and immunoserologic inspection were enforced on BALF and blood plasma.
+The cytokine which significantly increased in BALF in comparison with the IPF stable stage in acute aggravation stage was measured 17 type insect of 13 types, and especially, IL-6, TNFα, IFNγ showed the high tendency in the poor prognosis cases.
+In 3 examples of reexamining BALF during the acute aggravation treating process, IL-2, IL-5, IL-6 showed the declining tendency by the treatment without relating to the prognosis, and IL-8, IFNγ, TNFα showed the upward trend in the poor prognosis cases.
+In the blood plasma, IL-6, IL-7, IL-8, and IL-10 were significantly higher in the acute aggravation stage than in the stable stage.
+The basic disease state of bronchial asthma is chronic airway inflammation.
+Many cells such as eosinophils, T-cells, mast cells, neutrophils, macrophages, and airway epithelium, and various liquid factors are involved in airway inflammation.
+It is taken seriously that the Th2 cytokine is concerned even in not only central airway but also peripheral airway on the position of the airway inflammation.
+
+For the treatment of the turf asthma, it is important to introduce the antiinflammatory drugs mainly on the inhalation steroids from the early stage in order to suppress the remodeling of the airway in addition to the control of the allergic inflammation.
+
+In addition, objective evaluation of air flow restriction by the respiratory function test is necessary for the diagnosis of the asthma.
+It is evaluated by spirometry and peak flow meter, and the airway hypersensitivity test is carried out.
+
+
+It is important in the clinical diagnosis that 1) the symptom which derives from the air flow restriction occurs paroxysmally and repeatedly, 2) there is the reversibility at least partially in the air flow restriction, 3) other diseases are excluded.
+As a result of our genetic analysis, the possibility that the IL-17F gene fulfils the important role in the disease state of asthma is guessed.
+PAI-1 It may be deeply involved in the formation of the remodeling of the airway, and the functional polymorphism of the PAI-1 gene seems to be one of the genetic factors which regulate whether the remodeling of the airway is easy to progress.
+CCL5 is chemokine which is strongly induced from the airway epithelium in the viral infection, and especially, it may fulfil the important role for the acquisition of the chronic airway inflammation in high-age asthma.
+
+The understanding of the disease deepened by clarifying the pathophysiological and common pathway from them at the molecular level.
+By targeting these pathways, it is expected to contribute to the development of asthma prevention and treatment of asthma.
+Electrocardiogram synchronous reconstitution CT angiography (4 D-CTA) developed to accurately grasp the dynamic status of the cerebral aneurysm wall is outlined.
+
+4D-CTA S-MPR was able to obtain objective cerebral aneurysm images.
+This paper also describes problems and utilization of 4D-CTA images.
+Blood collection is indispensable for glucose level measurement for the diabetes mellitus diagnosis at present.
+A realization of the glucose level measurement by the non-invasive is desired.
+In this paper, acquisition of basic data of intraorganism temperature estimation using MRI is reported.
+In the millimeter wave region, the possibility of the in vivo measurement of the glucose level was examined by measuring the resonance characteristic using the patch antenna excited by the waveguide.
+By the difference of the T2 phase image, it was confirmed that the temperature distribution measurement could be realized.
+This method can be utilized as a non-invasive temperature monitor of the intraorganism in various medical systems.
+Clinical images and molecular-genetical features of enhanced S-cone syndrome (ESCS) are outlined including the experienced cases.
+
+The cause gene is the NR2E3 gene.
+
+The case was a woman of 47-year-old who made the hypogastrium fullness feeling to be the chief complaint.
+Laparotomy panhysterectomy and sides adnexectomy method by gynaecologia were carried out by the preoperative diagnosis that the malignant tumor can not be denied, though the hysteromyoma was suspected most by various inspections such as the pelvis portion MRI.
+It was diagnosed pathohistologically as metastatic uterine cancer, and as a result of the primary lesion scanning, it was proven as bilateral breast cancer.
+After the preoperative systemic chemotherapy was carried out, left pectorails muscle preservation ablatio mammae, left axillary lymph node purification, and right mammae partial excision were carried out.
+Postoperative irradiation was performed at the left parapet, right preserved mammary gland, and right armpit.
+The re-rise of the tumor marker was recognized in the postoperative 16th month, and the progress of the symptom could not be stopped, and the case died for the carcinomatous peritonitis.
+
+
+The principle of detection using carbohydrate chains is characteristic, and it is a method combined with the surface plasmon resonance (SPR) method.
+It is a method with high reliability and good manipulability which drastically shortens the time in comparison with the conventional methods.
+A case (16-year-old woman) of linear scleroderma complicated with spinal bifida is reported.
+The erythema with the linear arrangement from the right buttock to the thigh appeared.
+From clinical laboratory findings, pathohistological findings and image examination findings, linear scleroderma associated with spinal bifida was diagnosed.
+By the mometasone furancarboxylate ointment, the pit was improved a little, but the pit from the normal skin continued.
+The following are reported: That the west Nile Virus (WNV) NS4 B protein becomes an antagonist of the interferon with other viral protein and that it exists in the cell nucleus in later stage of the infection locally.
+In this study, the localization of NS4 B protein to the nucleus was analyzed, and the biological significance was examined.
+It was observed that the NS4 B protein existed even in the noninfected cell in the nucleus as not only viral infection cell but also fusion protein which added the red fluorochrome.
+For the nuclear translocation of NS4 B protein, it became clear that C-terminal of 50 amino acid of this protein was important from the analysis of the deficient mutant.
+And, it was indicated to be concerned in the control of the cell division, because many NS4 B protein existed in the dividing cell nucleus locally.
+Lymph node metastasis and remote metastasis are less in hepatocellular carcinoma than intrahepatic bile duct cancer which is the equal primary hepatic cancer.
+However, the treatment is often difficult because of the multiple formation of the mass.
+It has been clarified that the multiple mass formation occurs multicentrically with the background liver lesion.
+
+In this paper, past knowledge on the multicenter carcinogenesis and the practical method of identification of the multicenter generation are explained.
+The liver is the organ in which portal blood flow from the digestive system organ flows first, and it is the organ in which metastasis frequency of the digestive cancer is the highest.
+In this paper, each therapy for metastatic liver cancer was outlined mainly on large bowel cancer.
+At first, evaluation method of the hepatic metastasis and retrieval method of the liver outside lesion were described.
+Next, the epidemiology of large bowel cancer hepatic metastasis was described, and surgical remedy, arterial injection chemotherapy, topical treatment, systemic chemothrapy were described on hepatic metastasis of large bowel cancer.
+Therapy for hepatic metastasis of the neuroendocrine tumor is described.
+The case of the female, 54 years old, with cutaneous focal mucinosis was reported.
+The rose pink and luster coated node of 10mm in diameter appeared in the left labia majora from 2 years ago, and it gradually expanded.
+By separating 2mm, the simple excision was carried out.
+It was diagnosed as cutaneous focal mucinosis from the pathohistological view.
+There has been no recurrence for 5 months after the operation.
+Remission of exophthalmic goiter was predicted by T3 inhibition test using blood T4 as a standard in 182 exophthalmic goiter patients.
+Blood T4<60% before the blood T4/T3 administration after the T3 administration was made to be an index to the remission.
+The Basedow disease recurrence was not recognized for 1 year right after the anti‐thyroid drugs stop, when this index was made to be a standard, and the recurrence was merely recognized in 16 out of 146 cases for 5 years.
+The recurrence rate was 11%.
+A 17-year-old girl showed different results according to the menstrual cycle in spite of similar cold stimulation test.
+The cold stimulation test was continued 2 weeks before, 6 days before and 6 days after the menarche start, and histamine in plasma and N‐methylhistamine (NMH) in urine were measured before and after the load.
+And, the change of the sex hormone by the menstruation was also measured.
+These results suggest that the measurement of NMH in urine is useful for the diagnosis of chilly urticaria.
+In U.S.A., the caesarean section rate of the pelvic presentation rapidly increased to 80-90% in 1980\'s, and the rate is almost maintained at present.
+External method of rotation is usually performed in 37 weeks.
+The pelvis photographing is carried out in the case in which the external method is unsuccessful.
+
+The nursing of the patient of 49-year-old women who became subarachnoid blood operaion, cerebellar infarction, bilateral paralysis was experienced.
+For prevention of the danger and early detection of the abnormality, extension ofADL ( action in daily life ) and independence, self‐help tools, etc. were devised.
+As the result, it became the perfect self‐support, and there was considerably the advance in comparison with on admission, though there was no ADL.
+On the meal, it changed to the half support from all support.
+The time is still needed for excretion and urination.
+
+It was considered that this case caused electrolyte abnormality such as the hypokalemia by the overdosage of I and caused various arrhythmia such as sinus bradycardia, auricular fibrillation, complete left bundle branch block, supraventricular and ventricular extrasystole.
+K supplementary therapy alone was insufficient, and the artificial cardiac pacemaker therapy was effective.
+These results suggest that trigger activity is involved in the pathogenesis of various ventricular arrhythmia.
+This paper outlines the titled mass outbreak of diarrhea.
+As a result of the PCR on the stool collected for 99 kindergartners, the Escherichia coli in the title was detected from 3 children.
+16 toxinogenic strain in the title were isolated from total 579 samples of 155 persons concerned.
+Although there was no problem in water supply and drainage and the causal food was unknown, it was possible for kindergartners to touch both cases of uninstallation of disinfectant and waste disposal and diaper storage.
+It became clear that rapid sport activity in the growth period, etc. became a cause in most of the spondylolyses.
+Diagnosis of spondylolyses can be made earlier than X‐ray diagnosis by MRI, and the treatment outcome by conservative treatments is remarkably improved.
+
+All cases were improved by wearing lumbar braces or limitation movement.
+We recommend MRI diagnosis when low back pain persists for more than one month without any apparent cause in junior high school students.
+
+Though over 95% is called the gap bag calculus on the site of existence, it may be discovered subclinically even in choledocholithiasis and intrahepatic calculosis.
+The basic policy of the treatment of the silent gallstone is the follow-up.
+Gallstone dissolution therapy by the internal use of ursodeoxycholic acid and chenodeoxycholic acid is adaptable, and the availability is around 30%.
+The gout can be diagnosed by the presence of persistent hyperuricemia, in which needle crystals of sodium urate are deposited in the synovial fluid at the acute arthritis fit, and ingestion of polymorphonuclear leukocytes.
+Differentiation from chronic articular rheumatism and pseudogout is necessary.
+And, the disease type diagnosis is carried out by the uric acid clearance study.
+Diagnosis and treatment for complications and examinations necessary for follow‐up are also described.
+This paper explains the administration of H2 blocking agent (I) and proton pump inhibitor (II) which are usable in Japan at present once a day.
+Main (I) includes cimetidine, ranitidine, famotidine, etc., and there is no difference in therapeutic ratio between once-daily administration and twice-daily administration.
+In the famotidine, the administration time of 1 time in the morning was excellent.
+There were omeprazole and lansoprazole in II, and the difference in therapeutic ratio by the time administration time was not recognized.
+
+There were equal hypotensive effects in both day and night, and the hypotensive effect was carried out without changing the circadian variation.
+Nocturnal blood pressure was not considered to be excessive hypotension.
+The patient has been in good health without any deterioration of neurological symptoms as of one year after treatment.
+
+The effectiveness was shown for improvement of subjective symptoms and psychotic syndromes associated with cerebral apoplexy.
+In the disease independence, the improvement factor was high of subarachnoid hemorrhage.
+Especially, slow and sure hypotensive effect was shown for boundary zone blood pressure without showing rapid decrease of blood pressure.
+Physiological saline method for detecting the complete antibody and enzyme method, albumin method, indirect antiglobulin test for detecting the incomplete antibody are carried out.
+The following were outlined: Attention in the operation in each test method, abnormal reactions and the correspondence.
+It is indispensable to carry out the irregular antibody screening before the titled test.
+It is necessary to clarify the cross matching manual urgent blood transfusion.
+Artificial limb apparatus nonmental material except for the plastic is discussed.
+Merits and demerits of each type and property of natural material and artificial material are described.
+
+
+The crisis of 212 cases (1970〜1993) was the most abounding at 60-69-year-old, and the woman of 20〜29-year-old was more abounding than the man of the same generation.
+Most patients had T‐IRI above 300μU/ml and insulin binding rate above 30% at the time of diagnoses.
+Spontaneous recovery was achieved in 83% of the patients without any specific treatment.
+There was no distribution difference in cases by residential area because 42% of the total had dose history of drug containing SH group.
+
+
+The obvious hypercalcemia was improved by the large fluid therapy within a few days, and the serum calcium value normalized by the administration of antithyroid agent with the normalization of the blood thyroid hormone.
+Importance of search for exacerbation factors and optimum treatment is emphasized.
+The index to the nutrition care mainly on energy and proteins directly related to the low nutrition of the dialysis patients was outlined.
+
+In the dialysis patient, the body proteins are important indices.
+
+Protective mechanism for infection of resporatory organs and treatment of chronic respiratory tract infections are shown in figures and tables.
+Next, representative pathogenic bacteria were arranged in the table, and the features were described, and the antimicrobial agent therapy was described according to pathogenic bacteria.
+Cautionary notes in ambulatory treatment or domiciliary treatment are shown.
+The significance of macrolide in long‐term low‐dose therapy for chronic respiratory tract infection is discussed.
+
+
+The mechanism of histamine neurone plays an important role in inhibiting the duration of induced clonic convulsions.
+H1 receptor antagonist with CNS actions should not be administered to children.
+
+Both size and depth of the ulcer were significantly reduced.
+In the improvement factor by the symptoms, it was 100% in all items such as granulation formation and cutification.
+Bacterial infection was observed in 3 cases before administration, but disappeared after administration.
+No side effects were observed.
+Clinically isolated 73 stocks were made to be an object.
+Though the correlation between results of this kit and MIC value of the methicillin was good, it became the mecA gene positive in 1 out of 40 strains which were methicillin‐susceptible.
+The detection sensitivity was not always sufficient in the bacterial test in comparison with the case using DNA.
+In the simultaneous repeatability of the detection system, the electrophoresis was more stable.
+The differnt dates were recognized by the reaction temperatures, and the large variation was also recognized in the daily difference reproducibility.
+This paper describes legal characteristics of non‐prescription drugs.
+Next, from the viewpoint of necessity of pharmaceutical sciences using the medicine and clinical pharmacy for the pharmacy pharmacist, the handling of non‐prescription drugs is described.
+
+Finally, the ideal way of pharmacist education for the pharmacy medical treatment science is described.
+A 58-year-old woman presented with progressive gait disturbance, dysuria and dementia.
+By Ayclovir, there was the temporary improvement.
+In the examination of cerebraspinal fluid, cell and protein increase and rise in titer of the herpes simplex antiviral antibody were recognized, and in the MRI, the bilateral temporal lobes lesion was recognized.
+This is a special case of acute encephalitis, lacking headache, fever and other meningeal irritation symptoms, indefinite temporal lobe symptoms, chronic progressive course, and dementia being predominant.
+
+Foot complaints were observed in 8 patients.
+
+These results suggest that the decrease in foot arch height may affect foot complaints.
+Through conpulsory education reinstatement of 3 cases in the title, the adjustment at the level of handicap was carried out.
+Patient and family also hoped for the reinstatement to the conventional schools with the rise in self-supported level of daily living activity by the rehabilitation.
+
+It is considered that a comprehensive rehabilitation system is necessary.
+By the adoption of the streptoavidin tube method, the measurement of many items would be possible by the identical tube.
+
+No nonspecific reaction was observed because a nonspecific reaction‐inhibiting reagent was added to the buffer.
+By using the full automatic EIA analytical equipment, ES600, the batch processing of a large number of samples becomes possible.
+
+
+The following were summarized: Music therapy programs, instructors, performance of instructors, student names and student numbers, etc..
+Music therapy programs in this university are very well known and attract many students\' interests.
+
+
+To begin with, the method of treating in the field of HD chronica is mentioned, and in addition, the present state of membrane materials which are changing from cellulose to various plastics is explained, and biocompatibility such as antithrombosis is mentioned.
+And, the following were described: Continuous blood filtration method and continuous blood filtration dialysis method in emergency‐intensive medical care field.
+It also describes the outline of the therapy and characteristics of hollow fiber membrane using polyacrylonitrile and poly‐methylmethacrylate.
+
+Though the effect on acid reduction was recognized after the operation, the significant change was not recognized in the gastric emptying ability.
+Next, the vagotomy under an abdominoscope was carried out for a perforation case of duodenal ulcer as an additional operation for acid reduction of the simple closed technique under an abdominoscope.
+The good effect on acid reduction and enhancement of gastric emptying ability were recognized by this operation.
+On the chorus as a part of the recreation therapy, the questionnaire was carried out.
+The answer was got from 70 patients.
+There were many patients who replied that it was pleasant, and there was a patient with the movement by the feeling level in the inside.
+By getting patient agreement, it was photographed by the video camera, and the patient aspect in the participation was observed.
+And, the record of patient reaction and action before and after participation by the ward nursing attendant was examined.
+
+
+The pain has disappeared obviously in all cases.
+There was no significant problem in going up and down stairs.
+These results suggest that this procedure provides sufficient mobility for elderly patients.
+The clinical effectiveness of keisi‐bukuryogan was evaluated in 23 patients with miltiple cerebral infarction.
+
+
+These results suggest that nicorandil may inhibit the development of cerebral infaction.
+The 53‐year‐old male patient was examined.
+The primary symptoms were breathlessness with effort and right hypochondriac pain, and pericarditis which was already completed by cardiac catheterization was confirmed.
+After the progress of about 2 years, he died of the respiratory insufficiency by the pneumonia.
+The heart weight was 740g, and obvious pericardiac hyperplasia and adhesion were observed.
+The pericardium showed lymphocyte permeation with sphacelus and nucleus heteromorphism, and the same findings were also recognized in the heart muscle.
+Constrictive pericarditis was considered to have been caused by malignant lymphoma of the para aortic lymph nodes.
+
+
+Stabilization of the nervous symptoms and reduction in the adverse reactions of I are shown.
+
+Single neural discharge of the cutaneous pain receptor (R) was recorded in SD rats, and the effect of chinoform (C) on the thermal reaction was examined.
+In the thermal reaction of the control group administered dimethyl sulfoxide solution alone, the clear fluctuation was not shown.
+In the C‐administered group, the activity of R was clearly increased for 240min.
+These results suggest that clonidine enhances R activity under behavioral hyperalgesia.
+Acupuncture and moxibustion treatment (9.9 months, average 32.3 times) was carried out to SMON patients of 102 persons, and the transition of abnormal sense and uncertain complaint was evaluated.
+
+In the uncertain complaint, the improvement example over 10% was shown of diarrhoea, anorexia, bladder disorder and headache.
+
+Integrated research reports in fiscal 1994 on the title are presented (19 papers).
+The importance was put for the development of mechanism and prophylaxis of the immature neurone necrosis.
+
+A prospective joint study of pregnant women, foetus and newborn infants from the prophase is also ongoing.
+
+
+And, it was also proven that there was a case in which the bias occurred, when the Weibull distribution was applied to the survival time by the parametric maximum likelihood method.
+An approach to estimate the basic survival function by a non‐parametric method after adjusting the effects of risk factors by a parametric method is considered to be useful.
+
+They also examined the relation with pyruvate to lactate method adopted in many facilities at present, and the relation with JSCC conformity reagent of other company.
+
+Differences in LDH activity values between manufacturers and between JSCC recommendations based on the pyruvate to lactate method were also observed.
+
+Buku‐ryo‐san reduces the passage failure by diuretic effect of Buku‐ryo‐san and digestion and absorption promoting effect of ginseng Radix.
+DAI‐kenchu‐to promotes enterokinesis from various aspects.
+It is effective for postoperative promotion of digestion and absorption and improvement of metabolism.
+The time course of electrocardiogram (ECG) was studied in 29 patients with acute pulmonary embolism (APE).
+The 13 cases in which pulmonary arterial pressure was measured were divided into the high value group and the low value group of systolic pulmonary arterial pressure, and the electrocardiograms were compared.
+
+QT prolongation was more prominent in patients with high pulmonary arterial pressure.
+
+During gestational age, the liver and intestine were observed extracorporeally via the central abdominal wall.
+
+
+In addition, diverticulum formation between the right vein and the right atrium and the subaortic innominate vein were confirmed by these two methods.
+Extracorporeal circulation for umbilical hernia repair is noticeable complications.
+The case was a 18-year-old man, who contracted the AIDS of hemophilia A.
+It became that it was hospitalized of the aggravation of the liver function failure.
+Anti‐HBsAg antibody was positive in the outpatients, but negative in the patients on admission, indicating the development of hepatitis B.
+Humoral immunity was also affected by the dysfunction of helper T cells, and it was considered that HBsAg antibody became negative and intracellular latent HBV grew again.
+
+CS survived in 5 of 12 males and 3 of 8 females.
+Cr survived in 3 of 12 males and 2 of 9 females.
+Among these surviving rats, in three males of CS and one male of Cr, marked symptoms of slow limb elevation and weakness were observed.
+We report a case of dissecting aneurysm of the aorta of the Standord A type.
+Chief complaints were dyspnea and pectoralgia, and it was diagnosed as septicemia in the blood culture.
+Despite administration of antibiotics, the patient suddenly fell into a shock state and died of cardiac and respiratory arrest.
+The rupture of aneurysm was considered to have been caused by a shock state due to septicemia followed by a rapid rise in blood pressure.
+
+As an example of TD in the human, the breast cancer in which the metastasis appeared after passing through the year after extraction of the primary tumor nests was described.
+In experimental animal models, it is possible to put tumors in an inactive condition, namely a dormant condition, by suppressing angiogenesis.
+This paper explains the contents of lectures on the promise of anti‐angiogenesis therapy in cancer therapy.
+Effectiveness and safety of imidapril hydrochloride (I) in the treatment of hypertension of the hemodialysis patients are examined in 10 hemodialysis patients.
+The effective hypotensive effect was shown by the I administration with the lowering of the ACE activity.
+About 50% and about 65% of imidaprilat were removed by hemodialysis for 3 hours and 4 hours, respectively.
+The safety of I for treatment of hypertension of hemodialysis patients was confirmed.
+For isolated early gastric cancer of 747 cases (M cancer: 404 cases, Sm cancer: 343 cases) removed from 1976 to 1994, the clinical‐pathological analysis was carried out mainly on the lymph node metastasis cases.
+The less invasive radical treatment at present is endoscopic mucosa resection (EMR) of the stomach.
+
+Segmental gastric resection without pyloroplasty was superior in terms of postoperative QOL.
+The operating room cleanliness was investigated before and after the renewal of air conditioning equipment.
+There was no remarkable change in the number of airborne bacterial cells and the number of floor and wall adhered bacterial cells before and after renewal of the air conditioning equipment, and the cleanliness was good.
+After the replacement of the facility, the airborne dust count (I) in the unmanned became 100 in all classes.
+There was no significant change in I and the number of bacteria at the operation before and after the renewal.
+In the ventilation frequency of 20〜30 times/hour, there was a problem in the exhaust capacity for dust generatin amount.
+Calculation model and theoretical analysis of dentin adhesiveness and adhesion mechanism were examined.
+Stress values became unequal along the interface, when tension bond strength was assumed using a calculation model which consists of an interface layer model as a direction in which stress is applied, and it was indicated that it is important for the examination of an interface breakage mode.
+
+The dentin resin impregnated layer structure was modeled, and the relationship between hardness and elastic modulus was found.
+Whether the grasping power could be an index of aging was examined.
+Prognostic mortality was lower in the high grip strength group than in the low grip strength group.
+And, though grip strength retest was carried out after 20 years, the relationship between relative strength and weakness of grip strength was sufficiently preserved after 20 years.
+The mortality rate of the group in which grip strength increased after 20 years was lower than that of the group in which grip strength decreased.
+These results suggest that grip strength is useful as an index of aging.
+He overturned under ski slide, and received the medical examination due to right knee deformation and pain.
+
+Osteosynthesis is performed, and outside retinaculum separation and inside joint sewing up technique are performed for dislocation.
+The excursion was normalized by excursion training and muscle force strengthening training, and the case left hospital in the independent gait, but long-term follow-up is necessary.
+The antipyretic activity of galenical components was screened using an influenza infectious system in mice.
+Among 7 galencial components, cinnamon bark showed strong antipyretic action and inhibitory action against IL‐1α production.
+Among 55 cinnamyl compounds and related compounds contained in cinnamon bark, 13 showed strong antipyretic activity.
+Antipyretic activity of Kakkon‐to for the influenza infectious disease was demonstrated.
+This paper explains air turbine handpiece (A) and micromotor handpiece (A) for treatment and dental technic.
+The weight of A is about 30〜70g, and the rotational speed in non‐loading is 30〜40 × 104rpm in most cases.
+Miniaturization of (A) is in a situation of deep difficulty in relation with rotational speed performance.
+Sterilization measures, prevention of infection, cooling effects and noise reduction are also described.
+This paper describes recent topics on non‐steroidal anti‐inflammatory agents (S) and their profiles.
+
+As recent S, selective cyclooxygenase 2 inhibitors are described.
+Effect of S on malignant tumors is mentioned.
+
+Superacidic water was very useful as a disinfectant.
+In the investigation in the wards, MRSA was mainly detected in hands of staff members, body surfaces of patients, and floors.
+Though the trial which prevented the adhesion of MRSA to the patient using superacid water was carried out, it was not possible to stop.
+The utility and problems of coated Y‐shape artificial vessels were compared with those of uncoated Y‐shape artificial vessels.
+
+
+It may be used, if the above fact is kept in mind.
+Methyl methacrylate (I) generation status in the bone cement mixing was compared between conventional and cement mixer methods.
+In the conventional method, I was generated for 6 minutes.
+When a vacuum mixer is used, gas generation in mixing is suppressed, but I is generated when cement is taken out.
+Countermeasures such as aspirator use in opening the lid and double wearing of the mask regarded it as a necessity.
+The approach to the lesion is greatly different from the thoracotomy in the pneumoscopy operation, and the instrument to be used is also different.
+Case and object age, operation method, instrument instrument instrument of the pneumoscopy operation were described.
+Indirect assistant nurses can keep the position of patients and quickly prepare necessary instruments for thoracoscopic surgery by observing a TV monitor.
+Direct assistance nurses pay attention to accurate grasp of the operation and delivery of the smooth instrument by the video training.
+It is necessary to have actions for perioperative troubles and subsequent treatments in mind.
+Two cases of contractive pericarditis (CP), for whichhuman atrial natriuretic polypeptide preparation HANP ( calperitide ) was effective in postoperative low cardiac output syndrome (LOS), are reported.
+The cold symptom was lengthened on case of 1 (the 17-year-old man), and it was diagnosed from the family doctor with CP, and hospital was transferred.
+
+In both cases, Los Angeles (LOS) and preload increased on the first day after pericardiectomy operations, and hANP was administered.
+Administration of HANP resulted in reduction of preload, pulmonary congestion and CTR in breast X‐ray.
+The cases of a patient with chest pain of unknown origin which was contracted after the operation of thyroid tumor and a patient with a chest pain of unknown origin which seemed to be contracted after the stress were reported as the symptoms.
+In administration of analgesic agents, antidepressants and nerve block treatments, the effect was temporary.
+
+For the pectoralgia of unknown origin, the administration of the Chinese medicine should be also considered.
+Cases are the 66-year-old men.
+
+After implantation of the DDD pacemaker, excitation of the heart ventricle occurred both via the Kent bundle and by ventricular pacing.
+Subjective symptoms such as vertigo and giddy feeling disappeared.
+
+
+And, the positional relation between tumor and parotid gland circumferent tissues is proven by MRI and CT images, and it is useful for the examination of the approach method in the operation of the progress tumor.
+
+The following were examined: Pediatric nursing counseling and development counseling in health centers, and present state and problems of pediatric close health examination in Shiga Prefectural Pediatric Health and Medical Care Center.
+It is desirable for children who received the pediatric nursing counseling to be in charge of pediatric neurologists because of many neurological diseases.
+
+
+We reevaluated the relationship between aging and gastric acid secretion in 157 normal subjects.
+Gastric acid secretion was negatively correlated with age.
+
+The gastric acid secretion ability of women with negative for I and without atrophy increased with aging, and the gastric acid secretion ability was low in persons with positive for I and cases with advanced atrophy.
+It is necessary to reevaluate the relationship between gastric acid secretional capacity and aging in consideration of existence of I infection and degree of gastric mucosa atrophy.
+The adaptability of the edge element finite element method to the ECT analysis was confirmed.
+By using the deformation potential, the division of the exciting coil became unnecessary, and the impedance change which the reaction magnetic field by eddy current brought about was able to be analyzed.
+The analytical result of the benchmark calculation agreed well with the calculated value.
+The calculation capacity can be reduced by using symmetric or anti‐symmetric conditions.
+The article introduces the development and establishment of stochastic techniques on strength evaluation and reliability analysis or assurance test of ceramics.
+
+
+This paper describes the reliability assurance test and application technologies.
+In the two‐dimensional photoelasticity, the data obtained by the photoelastic method are the difference of the two‐dimensional principal stress and the values of their directions.
+In the three‐dimensional elasticity, the integrated data was obtained in the case of transmission type.
+In the slice type, the problem in reorganizing the value of difference and direction of the two‐dimensional principal stress is how to reduce the noise which is included in the data.
+It can be expected that the noise can be remarkably reduced, if the lock‐in amplifier is used.
+This paper reports the measurement of the difference and direction of two-dimensional principal stress using a lock-in amplifier in a two‐beam slice type and their reorganization.
+In the absence of a safety standard for service robot, robots were operated throughout a half year based on the \"robot safety guideline\" in the Expo 2005 AICHI.
+It is sure that this guideline becomes a base of robot safety standard to be planned in future.
+And, there are many parts which become a reference, when this guideline knows the machine safety.
+This paper outlines the safety of the robot, and introduces the problems on the safety of the robot taken up through the World Exposition.
+In the current cleaning work of the window, there are manual operation system by the woker using the gondola and automated cleaning equipment.
+There are many cases in which automated cleaning equipment is operated by hanging from a rooftop by a crane, but most of cleaning of windows is conducted by manual system.
+Recently, super-large window glass increases in small-to-medium-scale buildings, and efficient and safe cleaning means suitable for these buildings are required.
+In response to this, a small and general-purpose stand alone type window cleaning robot has been developed.
+This paper introduces the mechanism of the robot and autonomous running system.
+The outline of fuzzy control and neuro-control was explained, and the expectation to the research of this field in future was described.
+This paper explains a flow of research and development of fussy control which started from research on fussy sets and began to rapidly spread in applications to steam engines.
+This paper presents a flow of research and development of neuro-control which is learning control based on neural networks.
+This paper shows a flow from a proposal of a machine (perceptron) which learns based on learning rules of synaptic connections to an error back propagation method which is a learning method of hierarchical neural networks.
+In future intelligence control, it is important to design a hybrid control system which integrates various basic technologies such as fussy control, neural networks, and genetic algorithms.
+Regarding benchmark problems of position control of a 3 inertial system, design specifications and approaches of designs are compared referring to design examples.
+This paper exemplifies the features of design problem and design method through design examples.
+This paper also explains a design example of aloop shape correction by H∞ control theory and a design example using μ analysis and designs.
+This paper also shows the composition of 2 degree of freedom control system and sliding mode control system which is a robust nonlinear control system.
+On the feature point extraction, the model image divided into the optional block number which does not overlap is used.
+Each block is abstracted as a unique feature point labeled with spatial position and dominant saturation in the HSV color space.
+To reduce the search region for matching in a dynamic environment, a background subtraction method and a skin color detection method for detecting only hands are used.
+After the hand detection of the input image, the circumference mainly on the hand is searched.
+At present, the importance of Internet as a lifeline increases, and the threat of the security by the artificial attacks to Internet gives large effect on the social life.
+Here, the research promoted in research theme \"Research and Development of Basic Technologies about Wide Area Monitoring Systems\" was introduced as a countermeasure for the threat of the security of coming ubiquitous society.
+
+Then, an ultra-high speed traffic probe system, which is a challenge ofOki Electric Industry Co.,Ltd., is explained.
+Ubiquitous means \"it is ubiquitous like a god\".
+By u-Japan plan and u-Japan policy which the Ministry of Internal Affairs and Communications announced in 2004, it was positioned in the policy of the IT utilization of Japan with the aim of a realization of the ubiquitous Society by 2010.
+Already, it is in the entrance of the ubiquitous society, and the portable telephone is the diffusion over 70% of the total population.
+
+
+In this report, the function of broadband network system known as ibis (inter-Touch billing information system) is described.
+Unlike other service provider, this company offers cable and radio wide-band Internet connection service exclusively for hotel customers, and it is linked with the accounting system of the reception desk of hotel.
+The customer support is available in 5 languages by 24/7/year, and the cost enters the room charge.
+Inter-touch possesses and controls equipment and facilities for Internet connection, and the cost shares with hotels.
+The equipment of each hotel is composed mainly of ibis, and ibis is monitored and supported from the center of Kuala Lumpur.
+This paper presents a part of basic research on a three dimensional display system.
+There is the solidity according to bilateral information in the sense which the current television can not handle.
+
+If large‐scale parallel computers for actual processing are available, it can be put to practical use.
+
+
+The image information compression technology is based on the elimination of redundant signals and the use of human visual performance.
+A configuration example of a typical image encoder is presented.
+The groupware was introduced as a work environment for activating the group activity.
+Therefore, this paper connects offices by LAN-WAN-LAN, and carries out services such as electronic mail, electronic bulletin board, forum, etc..
+The menu of the service is shown.
+Features of the system are self introduction in the used department, link service with the business system, utilization from the remote location, and metropolitan area LAN/WAN development.
+This paper proposes a pattern recognition technique using neutral network (NN) and knowledge processing for remote sensing image analysis.
+For the data which does not follow the Gaussian distribution, it is possible to obtain the recognition result with the good accuracy.
+NN is used for the recognition division of processing systems, and knowledge processing is used for the correction division.
+The effectiveness of the proposed method is demonstrated by applying it to actual image data.
+
+In this paper, we introduce three papers on the connection component problem of graphs and show that the parallel algorithm is an enormous system.
+This paper introduces the cases used to explain the parallel algorithm approach intelligibly.
+Fair competition on the evaluation of algorithms in the world, discussion of lower bounds, and evening ideas are also mentioned.
+This ethical pharmacy system is a personal computer LAN system based on the light coaxial cable.
+There is a point of the system construction in patient waiting time shortening, system which is useful for the pharmacist, expansibility, support power.
+The effect after the introduction and future prospect were described.
+This paper indicates the merit of introducing LAN.
+This paper describes the application of business package software.
+The first computer ofJapan INTEC Co.,Ltd. which is a sale company of water purifiers was an off-computer, and it shifted to a personal computer later.
+In addition, the client/server system by business server \"the K series\" was constructed.
+By this, the system was integrated, while existing personal computer property was effectively utilized.
+Utilization of a personal computer as a client is shown.
+On the basis of the circuit technology usingmultiple input threshold operation element neurone MOS(νMOS), \"the association hardware\" that recognizes and understands the phenomenon in real time was developed.
+That is to say, analog EEPROM cell technology which memorizes the analog phenomenon in high‐density and association devices of the analog vector were developed, and fast detection circuits of the movement vector of the two‐dimensional image, real‐time tracking circuits of the gravity center position, etc. were realized using νMOS as these application examples.
+The operation principles, circuit structures, and measurement results of each basic hardware are described.
+The νMOS technology has both flexibility of analog processing and exactness of digital processing.
+They described fundamental approach and case of the approach with the aim of the fusion of engineering and art.
+It is necessary to introduce feeling and sensitivity information in the communication for image and speech processing.
+
+
+
+A description of the primitive and its spatial relation is given from the viewpoint of TSL.
+In the TSL system, the local control is realized by changing the parameters of rewriting production.
+Some other related techniques are also presented.
+For the reversible compression of the natural image, regional division encoding which effectively utilizes the local property of the image is promising.
+Here, the following were examined as a previous step of the regional division encoding: The technique which divides the image into the region in which the statistical property is similar and coding method which describes the region.
+First, the initial region was generated by the K average clustering, and the minute regions were deleted by the comparison of the color distance.
+Next, the region is integrated by luminance average and histogram comparison, and after removing the minute region, the coding is carried out.
+The effect of entropy reduction by the regional division was confirmed by the simulation experiment.
+Manufacturing line and information system which supports it must be one-sided.
+The construction of the information system which flexibly dealt with the modification of the manufacturing line was examined.
+In this paper, quality and productivity improvement of the information system construction by domain analysis and modelling methods were examined.
+As a domain model construction expression technique, a method for introducing UML (unified modeling language) and a specification of equational related equation (specification describing constraint conditions between calculation items and attributes) was proposed.
+We also define an operation for generating new object models by combining two object models including business rules.
+By applying the automation tool of design and programming to the model obtained by such procedure, it becomes possible to automatically generate the program.
+The personnel management of the enterprise in Japan must depend on the mechanism in which individual way of life is utilized in the enterprise long-term.
+In present talent development department, the long-term and strategic viewpoint becomes very important.
+In considering the prospect of the problem solving, there is a problem of the individual in one side and a problem of the enterprise in the other.
+Utilization of self‐development is a key point.
+Japan Consulting Engineers Society received the consignment of Science and Technology Agency, Science and Technology Policy Bureau.
+
+
+On the investigation of actual condition and consciousness of the engineer, the following were investigated: Employee enterprises, major fields and job contents, working hours, treatment, experience of changing job, education and training inside and outside the workshop, consciousness for the job, etc..
+
+
+It was arranged in order to present the guideline and job order models based on this.
+It is desired that the public employment security office always grasps the user needs and effectively offers recruitment and job hunting information.
+1) Background of the research.2) Theoretical examination on the improvement of the design.3) The experimental examination on the improvement of the design.4) Ideal way of the effective expression of recruitment advertisement.5) Summary and future problems.
+Sewage sludge biomass energy (SS-BE) is noticed as a global waming measure.
+About 80% of SS has organic materials and high calorific value.
+In order to recover energy from sewage sludge, there are two methods: A digestion method in which sewage sludge is fermented in an anaerobiotic state, and a method in which sewage sludge is dried and carbonized and utilized as solid fuels (SS).
+
+
+Methods of extracting energies from sewage sludge and production of SS biomass solid fuels were described.
+
+Since the opening in 1993, a part of generated garbage has been treated as animal feed and the remainder has been incinerating in the in-house low‐polluting incinerator, and a composting system (composting) was introduced for the purpose of reducing fuel for incinerating disposal in April, 1995.
+This system is capable of composting in about 4 weeks by adding horse barn litter and aerobic fermentation fungus to garbage (about 3 tons/day) at high-temperature and high-speed, and reused as fertilizers for trees, green land, and flower bed in the field.
+The consumed heary oil of A‐type was 34kl in 1995 and 19kl in 1996 compared with that in 1994 (104kl).
+The index of discharge of carbon dioxide, sulfur oxide, and nitrogen oxide also decreased from 100 to 63.
+Development process, basic characteristics, performance verification test, actual performance for ventilation monitoring of krypton wide-band detector in high-level radioactive material research facility (Chemical Processing Facility, CPF) were reported.
+
+In chapter 3, test and evaluation of broadband Krypton detector are described.
+In chapter 4, this paper describes conclusions such as that measurement results of a broadband Krypton detector are appropriate.
+[2004.7].
+As a part of the scientific researches on high-level radioactive waste geologic disposal technologies, this paper carries out the titled analysis with the purpose of contributing to the setting of boundary conditions of underground water-flow analyses for evaluating the underground water-flow properties.
+This paper carries out the analysis reflecting the investigation and research result of step 1 in the ultradeep underground Research Project first stage.
+In chapter 2〜chapter 5, this paper describes the outline of landform and geology, modeling and analysis region, procedures of modeling and analysis, and underground water-flow analysis.
+The result of the research was arranged in chapter 6.
+[2005.5].
+The imaging plate has 100〜1000 times the sensitivity of an X‐ray film, and the position resolution is also good.
+The alpha ray emissioned from plutonium fine particles was detected.
+It is possible to know the radioactivity distribution pattern of the polluted surface.
+The illuminant thickness is about 40μm and the protective film thickness is about 3μm, which results in low sensitivity to scattered beta rays and is advantageous for the measurement of alpha rays.
+In the demonstration reactor No.1, the important items were examined as a research common to power industry, and they were reflected in the design.
+On the basic reactor constants, effective multiplication factor and breeding ratio were explained.
+On the neutronics evaluation method, adoption of the homogeneous model, correction of the heterogeneous effects and derivation of the predictive value and the prediction error were described.
+Neutronic characteristics of the demonstration reactor are also presented.
+The technlological trend of the high-efficient electric motor was described mainly on the induction motor.
+Japanese Industrial Standard of the induction motor with small loss and 1〜5% higher efficiency than the convention was instituted, and the characteristic evaluation method by the real load was regulated.
+The use is being recommended even in the energy saving law.
+
+Attention is necessary, because the starting current also increases.
+This paper presents an engine which can project a 62 inch screen at a projection distance of 20cm or less by a hybrid optical system of a nonspherical mirror and a dioptric lens, and a super thin and rear projection television experimental model using this.
+In the optical system in which the lowest angle of field is large and the effective angle of field range is small, it was found that the image surface bulge can be reduced by the simple optical system composition regardless of the condition of the conventional Petzburg sum, and the low-cost optical system was realized by the simple composition.
+Based on such design guideline, engine and television of the DLP TMsystem were produced experimentally.
+The distance to the screen was 125mm, and the largest half angle of field reached 80 degrees, and the depth of the television was 26cm, while screen distortion of 0.4% or less, contrast of 3000: 1 were achieved.
+
+Such design area is called \"the display optical system design\".
+However, some generality and commonness must be found in order to carry out the classification.
+The advantage which other light systems do not have in the optics structure of such equipment commonly exists.
+In this text, basis and feature of such display optical system design are described based on the light system design.
+This paper describes the prospect of MEMS (micro electro mechanical system) research in Singapore.
+In the past few years, large MEMS research program has been set by considerable financial support from the government.
+
+The ntu plan of research and education of synthetic MEMS was carried out in NTU, and the increase in the MEMS employee was promoted.
+
+
+The history from the birth of the large image system usingfull color LED(FCLED) to today and the latest trend were described.
+The development of the high brightness blue LED element by Nichia Chemicals became a foundation, and the large image system using FCLED was created, and the real FCLED large image appeared in front of the Tokyo Shibuya station in 1995.
+Recently, the broadcast industry has installed the FCLED large image in outdoor of the new office building as a face of the broadcast station.
+And, FCLED large images are used even in a speedboat race field, a horse-racing field, the Aichi international exposition, etc., and the FCLED large imaging technique steadily evolves, and the market is expanding.
+The Sn-Ag-Cu solder which is the lead free solder can not be used for the mounting of parts with low heat-resistance, since the melting point is high.
+Therefore, the Sn-Zn solder with low melting point is noticed.
+This study investigated one of the problems in using the Sn-Zn solder in the reflow solidering.
+In this solder, there is a problem of strength deteriorates by the reaction of Zn and Au plating electrode.
+In this report, the reaction between Au and Zn, and the relationship between Au plating thickness and bond strength were investigated.
+As the result, 1) the bond strength lowers, when the Au plating is thick, 2) the bond strength drastically lowers in the humidity neglect regardless of the plating thickness, etc..
+The article explains the preparation of two-dimensional arrangements of fine particles.
+This paper introduces the arrangement manufacturing method using the advection phenomenon of colloidal particles and the manufacturing method using the electrophoresis phenomenon.
+The observation method of the packing condition of fine particles by the optical method is also introduced.
+In addition, the applied research to antireflection film and microlens arrays, templates, fine patterning masks, etc. was also introduced.
+In recent printed wiring board mounting, not only parts miniaturization and narrow pitch but also three-dimensional mounting have been carried out.
+
+In NXT, 1) the improvement in the feed accuracy of the tape feeder, 2) the improvement in the position recognition accuracy, 3) the reduction in the parts mounting load, 4) the optimization of the descent profile, 5) the reduction in the slide resistance, etc. are improved.
+In addition, it is also correspondent to the three-dimensional mounting of POP (Package on Package).
+
+This paper describes examples of advanced services and functions that can be achieved by the PSS, as well as improvements in communication quality and basic performance.
+
+
+This software is becoming a common platform for FOMA terminals developed by mobile terminal suppliers.
+This paper discusses requirements for network management systems under the next generation networks and introduces several solutions provided by NEC.
+
+To provide useful service on open networks, advanced functions are required for network management, which are directly connected to the decision of carrier business management.
+These include business management support and customer care service as well as maintaining the conventional demand for efficient operator management.
+The generator which obtained the electric power by the vibration of the moving object for the portable information-processing equipment was examined.
+The efficiency of the vibration generator is determined by the relative speed between the coil and the magnet.
+Using the self-excited oscillation which was the nonlinear vibration of rotor, the method for obtaining large rotary motion from the minute vibration was examined.
+Self-excitation rotation and maximum efficiency were maintained at a frequency of 1-2.5 Hz and a coil turn of 3000-7000.
+The electric power generation was 380 microwatt.
+In comparison with the fluctuation, the electric power generation is 40 times.
+A field emitter array integrated with a built-in poly-Si thin film transistor (TFT) has been fabricated to reduce the operation voltage and stabilize the emitted current.
+Perfect control of the emission current by the built-in TFT was realized by optimizing the TFT structure for controlling field emission silicon, especially for reducing high withstand voltage and off-current.
+The emission feature and life were improved by coating the Si emitting chip with hafnium carbide (HfC).
+And, it was possible to lower the operation voltage from 50V to 15V.
+The stabilization by the TFT control was very effective, and emission fluctuation of 0.1 was obtained.
+Furthermore, a tube-less vacuum package has been newly developed for display applications.
+
+This paper presents an outline of FPU remote control equipment for NHK which was developed and commercialized in order to deal with the complication.
+The FPU local operating panel installed in the base station side has functions of control and monitoring to each equipment and data transmission with the FPU remote operating panel installed in the broadcasting hall side.
+
+The FPU remote operating panel in the broadcasting Station has data communications with the mountainous FPU local operating panel, and control/monitoring function to each equipment in the mountainous and broadcasting Stations.
+A superconductivity single phase auto‐transformer with auxiliary winding only in the shunt winding was produced experimentally.
+The FRP cylinder was inserted between the series and shunt winding, and it was confirmed that it always quenched only in the shunt winding.
+The operation of the transformer in steady state and in the system fault was confirmed.
+The shunt current to the auxiliary winding in the steady state was as small as 5.2%.
+This paper investigates the effect of machine rotor constant of D‐and‐q‐axis on the asynchronous torque characteristics when driven by square wave and PWM inverter.
+It was confirmed that it was able to uniformly analyze the characteristics in the drive at the power source voltage of the optional waveform and is a useful method.
+
+TheSlip ‐ torque characteristics when the reactance values are changed are shown, and the relation with the gerges phenomenon is shown.
+As the captioned countermeasure, this paper introduces the present state of snake design of 275kV CV cable with metal clad structure.
+
+In the sloped telephone-tunnel section, the horizontal snake was applied, and in the vertical telephone-tunnel section, the overall length snake construction was applied.
+In both cases, a constraint‐type cleat is installed for selfweight support.
+This paper introduces a floor clock which uses led as a light source and displays the clock by the integrated light.
+This paper describes composition of a floor clock, supply of electricity, cautionary notes in construction, material life, and future problems.
+This paper introduces a new product in which led and artificial marble are united.
+
+For starting characteristic improvement of an underwater motor pump for water pumping, a variable reactor starting device which can change the power source voltage to 3 stages was developed, and a comparative experiment with direct on starting was conducted.
+Since the voltage can rise in order, while the electric motor is connected to the power source, the acceleration characteristic is also smooth, and the shock in the starting is also little.
+Starting current and starting power can also be reduced in comparison with direct‐on starting.
+The starting device can be started up as a non‐inductive circuit.
+
+
+
+The progress of the separation of the current between wires in the current limiter winding before and after the quench was also examined.
+
+On the other hand, the distance between wafers is not reduced because of the necessity of cooling.
+As the result, the length/radius ratio of the Z wiring conductor increases, and the maintenance of the stability in the conductor formation becomes difficult.
+The formation process was observed using a solder bridge as a basic model.
+The titled facility consists of facilities such as flue gas desulfurization, stack‐gas desulfurization drainage, total drainage, ash disposal, coal transportation, and coal receiving in the bay.
+Integrated system of these controllers has been introduced.
+Regarding the integrated system, information of all facilities can be obtained by 1 unit, general management of abnormality of facilities is possible, burdens of management can be reduced, and costs can be reduced.
+The power supply supplies AC100 and DC100 to important control equipment directly.
+The high resolution see‐through colored HMD was produced experimentally, and the product used for research of virtual reality, etc. was developed.
+Not only it is used as a goggle function, but also it has the see‐through function.
+This paper describes the see‐through function, display image, features such as adjustment mechanism, and consideration in the design.
+Specifications, performance and resolution are also introduced.
+Ministry of Posts and Telecommunications announced it every year, and the outline of the white paper in the title which was the 23rd this time was described.
+
+
+
+
+Main purposes are correspondence to extension of production facility and working rate improvement of existing facility.
+After the integration, only the exhaust of the epitaxial growth device passes through the HCl scrubber and the others directly flow into the newly constructed suction chamber.
+The epitaxial system scrubber of the last stage discharges the exhaust to the atmosphere.
+The concentration is below the detection limit of 2ppm, which satisfies the environmental standard.
+This paper is an explanation article of the above problem.
+To begin with, this paper explains the definition of terminology such asESD ( electrostatic discharge ).
+
+As a countermeasure, this paper mentions an electroconductive table mat, a floor mat, and a list strap, and it also shows a static charged capacity of a human body in a table.
+Regarding a list strap in which a worker wears actually, time variation of electrostatic voltage is shown in a graph.
+This paper describes the characteristics and application of diamond as a heat sink.
+
+
+This paper outlines the present state and future of diamond as a heat sink for optical communication and devices.
+The amplifier in the title developed as a part of the 70th anniversary commemoration of the founding of Lax got the high evaluation in famous audio magazine including the gold prize award of the best stereo component grand prix of the radio technology magazine.
+The planning intention of this machine and the history of deciding to the 500W/8Ω specification by the BTL system are described.
+This paper explains the merit of balanced transmission, input circuit, and attennator, and describes the features of twin hybrid diamond buffer circuit using the first stage as FET.
+
+This paper describes the adoption of custom parts such as copper foil stynene capacitor with copper tube, high inertia power source, and feeding system of BTL output stage.
+This paper explains hole drilling of the captioned manufacturing technology.
+This paper outlines each system of excimer laser, carbon dioxide gas laser, andND:Yag laser, and explains features such as machining accuracy.
+Shapes, processes, quality, application examples and problems of the build up via with the moderate taper by the laser are discussed.
+Chemical etching methods using photo‐sensitive photo‐polymer such as drilling, alkali, and acid are introduced.
+The first radiation fin is installed on one side of the chip, and the second radiation fin is installed on the other side.
+The second radiation fin is connected to the mold on the chip surface.
+The junction is carried out by cladding when the outer lead of the frame is cut.
+A part of the second radiation fin plate is bent by this cadding force, and it is joined to the first radiation fin plate.
+By this, the warpage of the package can be prevented and the heat radiation effect can be raised without increasing the number of assembly process.
+A new type of image sensor in which correlation detectors between incident light and electric signal are two‐dimensionally arranged is proposed.
+
+Several possible structures and circuits are proposed and verified.
+Application of this sensor is also discussed.
+This paper explains the titled technology using PDP, with attention paid to the possibility to a large screen wall‐mounted television receiver.
+First, the memory function of PDP as a basic premise to the television display is explained.
+Next, as a television display method, this paper explains the principle of display and DC and AC types representation format.
+After explaining from the viewpoint of the display system, degradation of the dynamic images and the countermeasures are also explained.
+
+
+Actual input sudden change voltage waveform was stored in data base, and it was output in the DC amplifier through the D‐A converter to enable the input sudden change of the arbitrary waveform.
+As a result of the operation confirmation which applied the sine wave half‐cycle to the on‐board power supply, it was confirmed that the operation along the goal was obtained.
+A high‐speed vacuum circuit breaker has been developed which shortens the duration time of momentary voltage drop to one cycle to eliminate short circuit fault locations in power systems.
+
+The detection time was 4ms.
+In the analysis, the drop accident of bus‐bar voltage of 60% was able to be recovered to 96%.
+This paper introduces the titled quartz crystal product developed by Kinseki Co., Ltd.
+
+This product is a small, thin, and low-cost product of the surface mounting leadless type, and this paper shows the outside dimension and inner structure.
+This paper describes decision of the standard frequency, load capacity, and reflow condition of the same product.
+Metastable RZ nonlinear pulses propagating through a transmission path connecting optical fibers with positive and negative group velocity dispersion are called dispersion management soliton, dispersion allocation soliton or stretch pulses.
+These nonlinear pulses may have better transmission characteristics than usual optical solitons in a fiber with more dispersion uniformity in the ransmission direction.
+The characteristics of the stretch pulse in the transmission path in which the sign of the group velocity dispersion periodically inverted were clarified, and in addition, the long range propagation characteristics of the stretch pulse in more practical transmission path was clarified for the numerical simulation.
+The analysis was carried out on the model of transmission path in which abnormal dispersion fiber and normal dispersion fiber were alternately connected at the equal length.
+
+In the technology of the digital satellite broadcasting, the following were explained: Information coding for the information compression, multiplication of services, method of the satellite transmission, limited reception of scramble, Service Information.
+By these technologies, the following become possible: Multi‐channel broadcasting, viewing contracts of chargeable broadcasting, classification of program tables, transmission of communication mail between all the members and individual application, and audience participation programs by bi‐directional function.
+The number of channels and subscriber number in U.S.A., Europe and Asia are described.
+
+
+This paper introduces the outline of this engine by the following items.
+1) Generality (free turbine system, 376kW/504shp/6000rpm, 103kg, deceleration gear box, gas generator, power turbine, exhaust pipe), 2) structure (deceleration gear box, gas generator), 3) oil system, 4) air system, 5) fuel system, 6) control system, 7) indication system, 8) engine mount.
+The shipment of the gasoline engine is 6173000, almost the same as the preceding year.
+Shares of single substance shipment for non‐utility use and OEM are 38.0%, 37.7% and 23.2%, respectively.
+
+Shipment of gasoline engine to agricultural forestry industry and fisheries machinery is 3352000 units, 54.3% of which is occupied.
+In cooling by temperature control, cold draft is easy to be produced, and cooling oyndrome such as heat shock in going in and out becomes a problem.
+This can be avoided, if the temperature setting is made higher than the conventional one.
+As a method for supplementing amenity which is hurt by raising air temperature setting, it is to control and utilize thermal environmental factors except for air temperature.
+That is to say, the following three methods can be considered: Radiant panel cooling, positive utilization of felt air flow, and reduction in humidity.perature.
+This report is based on the results of subjective experiments conducted in the summers of 1991 and 1992, changing the humidity setting.
+Aldehyde genera in automobile exhaust gases were analyzed byHPL ( high performance liquid chromatography method) using acetonitrile solution containingDNPH ( 2,4 ‐ dinitrophenylhydrazine ).
+This paper presents the reproducibility, calibration curves, detection limits, and aging variations.
+The results showed high reproducibility of 0.3-0.9% in relative standard deviation (10 repetitive analyses), clibration curves with a correlation coefficient of 1 (calibration of standard samples with 6 acetonitrile dilute solutions), and a formaldehyde detection limit of 0.0018 μg/mL.
+And, though the aging variation was not recognized in the standard materials, the analysis after the sampling should be carried out rapidly, because there was the aging variation in the exhaust gases.
+AR(Activated Radical) combustion engine is an improved conventional combustion engine using activated free radicals.
+The Ar combustion technology is the combustion technology which positively utilized the self ignition phenomenon.
+The self ignition timing is controlled by a control valve installed in the exhaust port.
+The tough up tube is a new structure tire tube for motorcycle excellent in puncture prevention ability.
+
+The liquid chamber and the air chamber are independent from each other, and the liquid chamber covers the range on the ground side of the tire.
+Experiments with ultra‐minimym cutting equipments and cutting simulation with atomistic models are reported.
+The cutting experiment was carried out using the equipment with air and oil static pressure spindle using the diamond tool.
+Inimum cutting simulation, Morse potential between atoms and nominal undeformed chip thickness are described, and the analytical results are illustrated.
+It is concluded that the cutting edge abrasion is in the order of Al>copper, and the minimum undeformed chip thickness is in the order of Al: Copper.
+As a result of test driving of the titled motorcycle, the revolution at low speed range was stable because of large torque at low speed, and the acceleration sensation at high revolution range was also excellent.
+The straight running stability in expressway travel was steady.
+The cornering was smooth, sure, and stable sense.
+The specific fuel consumption in the whole process of the test course was 18.7 km/l, which was equivalent to that of multi‐cylinder water‐cooled engines of the same class.
+Major specifications are also shown.
+
+This lathe hasDDS ( digital data system ) equipment which memorizes the data on wheel profile and wheel shape.
+These data can be analyzed by the personal computer, if it is converted by the conversion program.
+This paper describes the results of analysis of Urawa electric railcar depot.
+A five shaft control machining center is effective for machining dies, impellers, and various blades with complicated three‐dimensional curved surfaces.
+
+This paper shows that the problem can be solved and the machining efficiency can be improved by the 5 shaft machining.
+This paper explains that the point to efficiently use the 5 shaft machine is to utilize the postprocessor and the interference checking system.
+The 900SE 2.0 TURBO is equipped with high pressure or low pressure turbo.
+
+
+
+Low rotational speed characteristics of low pressure turbo‐engine are effective for urban driving.
+This aircraft was constructed for the purpose of deep sea observation and research to the deepest ocean bottom of 11,000m.
+In March, 1995, this paper places it in the deepest part of Mariana Trench at 10911m, and verifies its initial performance.
+Towed investigation and automatic navigation investigation are possible, and they have features such as TV camera photographing, work by the manipulator, sound positioning.
+System, launcher composition, controlling gears, and cable structures of this aircraft are introduced.
+This paper outlines the flow characteristics and features of equipment for dry crushing and classification of fine particles using an air jet.
+The subject crusher is called a jet mill, and particles are tangentially blown from multiple nozzles in the cylindrical container periphery, and accelerated by a high‐speed jet, and crushing is conducted by collision between particles and wall surface collision of particles.
+Some mills have additional impact boards to increase the impulsive force.
+There are virtual impactors, elbow jets, etc. as classifiers using jet, and particles with simple structure, large quantity, and strong adhesion can be handled.
+This paper summarizes the trends of cameras and lenses put on sale in 1996.
+
+However, features of the APS are not yet sufficient from the viewpoint of the photosensitive material, and it is expected in future expanding tendency.
+On the lens, the popularization of high magnification AF zoom lenses was conspicuous.
+
+Head mount display (HMD) is an equipment presenting visual images.
+
+
+The optical system is shown.
+The evaluation experiment on the presentation of high resolution images was carried out.
+This paper takes up reduction of railcar interior noise as a problem.
+
+Policies of the development of this structure are as follows: Materials are incombustible and there is no additional weight, and OW cost is low.
+In addition, it was made that the conventional components such as the duct arranged through the floor could be installed.
+Especially, chip handling becomes often a cause of the trouble in the drilling of stainless steel.
+
+This drill has a shape in which an outside cutting edge and an inside cutting edge are arranged in each 2 corners in the identical tip.
+This paper explains examples of drilling and drilling conditions including chip handling.
+
+This is a system to electric control all.
+In the former, there are 2 and 4 channel systems, and they are systems to control braking forces in the front 2 wheels and 4 wheels respectively by monitoring movements of the front 2 wheels and 4 wheels.
+The latter converts the twist quantity in steering shaft into electric resistance, and obtains the optimum value of steering force by the signal.
+As a result of trial ride of both systems by practical vehicles, good running performance and merits and demerits were experienced.
+In the fine DATA data, the path which utilizes the goodness of high rotational speed and swing rotation accuracy of the air‐static bearing spindle is made.
+This paper describes the experience and results of high speed milling and CAM system of this company.
+Workpiece materials cover a wide variety such as iron and steel materials, aluminum, copper alloy, wood, and resin of non‐ferrous metal.
+Then, this paper explains that optimum cutting conditions and tool paths are studied using tools of 0.1 to 6mm diameters for these work materials.
+Since a single lens reflex finder directly observes an image on a photographing lens, it has excellent functions such as that it can be observed as a normal image, and that parallax is not produced in a photographing screen.
+The structure and specifications of optical systems (visibility, eye point, visibility, magnification) are explained.
+Mechanism and action of each part which constituted optical systems such as movable mirror, focusing screen, Fresnel lens, mat surface, pentaprism were explained.
+
+This paper describes the management of home page of architectural design offices.
+Blogs can be used for management of Web pages as a business development tool.
+Access is induced by impression in the name of the log and certainly renewing, and it is guided to the home page.
+In the content of the log, it always has the timely topic, and completed photos must be of good quality.
+It is also possible to have multiple bus logs.
+Security card renewal construction of Kitakuni Shimbun Co. is introduced.
+Existing security cards were renewed to a high-function IC card system so that they may be utilized by other systems (employee dining room system).
+The card information of the IC chip built-in is read in the noncontacting card reader, the designated registrated information is referred, and electric lock and ailbox door are opened.
+The IC card is a hybrid type of contact and noncontacting common use which adopted MIFARE (the Philips development).
+Myanma federation is a multiracial nation composed of 135 races in which about 52 million people live in the land area about 1.8 times of Japan.
+The Burma group occupies about 70% on the composition of races, and most of the nation is Buddhism.
+Eight ports called \"Outports\" and 9 ports called \"Yangon harbors\" are generally opened.
+This paper presents the history of harbor development and the present state of Outports, formation, positions, containerization, and recent situations of Yangon harbor.
+The market economization of Myanma is retarded in comparison with Laos, Cambodia, and Vietnam which are called the newcomer ASEAN4 nations with the country, and the GDP per capita remains at least 180 dollars, but it seems to remarkably develop, if the political problem is solved, because the flatland is 70% and the personnel expenses are extremely cheap.
+Disaster prevention measures for a clean room are introduced.
+In the fire control of the clean room, there are many semiconductor factories which have not installed the sprinkler, even if the fire alarm has been installed.
+This is because the production facility becomes the water immersion, when the sprinkler operates, and it becomes the operation stop.
+On the other hand, there is a system which detects the fire before the situation becomes serious.
+\"Ultrasensitive Smoke Detection System\" installed in the return air area of a clean room has about 2000 times higher sensitivity than general fire detectors.
+In the meantime, original technologies such as \"multilayer floor quake-free factory\" of Kajima, \"MIC quake-free system\" of Taisei, \"viscose quake-free system\" of Takenaka Komuten are offered in the seismic countermeasure.
+The prediction technology of inspection, diagnosis and degradation of the bridge has been developed, when the aging of the highway bridge stock advances, and the support technology which efficiently and systematically maintain the bridge using these technologies has been required.
+
+And, this paper estimates the future transition of repair cost when the scenario of repair and reinforcement measures is given using bridge inspection data in the direct jurisdiction of national highway office service area, and examines the effect of various conditions and factors on the future prediction.
+And, this paper examines also a rough evaluation method of fatigue durability on the basis of traffic and structural conditions for every bridge taking the welded joint of steel I-girder bridge as an object.
+In the titled method, at first, pipes supporting the existing traffic line surface are injected horizontally one by one, and both ends of the pipes are received by abutments composed of RC‐structured foundation piles and beams.
+Next, a new structure is constructed by excavating under the line surface.
+In order to eliminate the clearance between the pipe lower end and the upper slab, concrete members of the upper slab and the side wall are jacked up with a jack on the lower slab concrete.
+This paper reports the construction of a road crossing right under the Sanyo Shinkansen line by this method.
+This paper deals with the response of non‐non‐binding granular material pavements with a thin seal coat surface to subgrade volume changes.
+
+In the numerical analysis, a heat similarity law is adopted, in which free swelling and shrinkage are treated as well as isotropic heat expansion and heat shrinkage.
+As a result of the analysis, it was found that this numerical analysis method can well explain the response of pavement subjected to the volume change of subgrade.
+The 14th overseas Hospital Architecture Observation group participated in hospital training in southern Europe and the Netherland.
+The use of stone materials is conspicuous, and expensive marble is continuously used, and the ruggedness of the surface produced in the sculpture forms a rich space.
+Various paints are decorative.
+Resin and metal are abundantly used as furniture materials, and shape and color are rich.
+The titled dam is a concrete gravity type of 21.7m in height and 85.5m in crest length, and is multipurpose for flood control, water flowing function maintenance, and water supply.
+A porous branching outlet type was adopted for hte intake works.
+The energy dissipator was made to be a hydraulic jumping type of horizontal water beating and auxiliary dam.
+Concrete placing of levee body and energy dissipator was carried out by 100t crawler cranes.
+Extremely fine granular cement was adopted for consolidation grouting.
+This paper presents an approach to materialization of the titled new railway line including episodes related to patent procedures.
+It is called patents that the country monopolistically gives the management right of transportation services to railway enterprises.
+
+The first term of the construction of the titled monorail started and the second term was put on the patent application in January, 1995.
+Recently, the toilet is recognized as a multipurpose space.
+In future building equipment plan, consciousness for the toilet and the utilization action were arranged, and the mutual relation was examined.
+In this paper, totaling result of the questionnaire for the student was compared with the general adults.
+Survey items were divided into 8 groups such as distance to toilet, allowable waiting time, action after waiting time, type of desirable toilet, and request.
+As a fixed formula of the titled design, a formula in which multiple natural frequency mode types are made to be homologous vibrational mode types is presented.
+This paper shows an example of homology design for natural frequency modes from low order to second order.
+By giving the exciting force to the structure got by the design, the time history analysis was carried out.
+It is found that the vibration shape is similar to the target homologous vibration mode shape.
+In the execution of new countermeasure for development of mountain villages from fiscal 1991, investigations for smooth promotion of concrete policy and related projects are carried out.
+As part of the research, research supporting regional activation utilizing resources such as nature and agriculture, forestry and fishery produts was carried out.
+Here, the precise investigation by the specialist for Ninohe city, Iwate Prefecture was carried out.
+\"Project of exchanges on regional resources, adding more value on regional specialties, and measures for settlement of youth\".
+This is an interim report of the investigation for deciding the regional promotion plan entrusted byChubu Industry Activation Center ( Foundation ) from Agency of Natural Resources and Energy, Ministry of International Trade and Industry.
+
+Three towns and 8 villages in Kiso District in Nagano Prefecture were surveyed.
+1) Outline and background of wide‐area zone.2) Basic problems of wide‐area zone: General remarks (promotion of settlement and maintenance of vitality‐basic problems of region, improvement of social capital which supports settlement and exchange, reconstruction of regional economy, reconstruction of autonomy and mechanism making of new regional management) .3) Problems of Kiso wide‐area zone: Detailed explanation (population problem, industrial problem, living environment, development impact of road) .4) Direction of Kiso wide‐area promotion plan.
+SBS (sick‐building syndrome) is introduced.
+This began to pose problems from residents of what is called energy saving buildings in Europe and America to complaints such as vertigo, nausea, headaches and quilibrious interval disorder, pain of eye and nose throat and sense of quilibriousness frequently occurred in 1980\'s.
+
+Survey/analysis of the symptom and observation tests of the indoor environment of highly sealable houses are mentioned.
+As a model project of the Ministry of Economy, Trade and Industry, the demonstration experiment of traceability for management of circulation resources distribution history over the border between Kitakyushu City and China and Tianjin City was started in October, 2005.
+The Ministry of International Trade and Industry (METI) is planning to scale-up and full-fledge these model projects as well as to support local governments tackling the promotion of international resource circulation in fiscal 2006.
+In the meantime, the environment Ministry (EM) is examining guideline making for distinguishing the used articles and measures of the traceability security, since the situation that it exports and imports the waste including the toxic substance with \"the used articles\" does not cut off the back.
+When the prevention of environmental pollution is ensured, \"smoothing of export and import of circulated resources\" is recognized to be important, and in addition, \"database of harmful substances common to Asia\" is constructed.
+This paper reports challenges of the Ministry of Economy, Trade and Industry (METI) and the Ministry of the Environment (EM) with the aim of optimization of resource circulation in the Asian area.
+It is mainly for the swell of the global environmental research.
+It has been put in the research manager of the global Enviromental Research Center.
+This paper reports the results of a questionnaire survey on the second exchange conference of global environment researchers.The contents are as follows.1)
+Activity report of global Environment Research Center. [1992.2]
+The odor measuring method of low concentration which can not be measured by the conventional sensory evaluation method was examined, and the background was also described.
+The basis of the measuring method is the thickening of a general environment odor, and the concentration is measured by the current three point comparison type smell bag method.
+The odor measurement of general environment was carried out by this method.
+This method is expected to be applied to preparation of an odor concentration map, odor environmental assessment, and odor level of environmental achievement setting.
+This paper takes up actual conditions of oil pollution accidents mainly on tanker accidents and the countermeasures.
+Marine transportation of crude oil in the world in 1992 was 1.3 billion tons, and import of crude oil in Japan was 2.1 million tons.
+This paper presents recent oil pollution accidents by main tankers.
+This paper explains international and Japanese approaches to tanker accidents.
+Zizania latibolia Turcz was cultured in the laboratory, and water quality change in the rooting zone was measured.
+
+The cumulative removal was greater in the peripheral rooting zone than in the central rooting zone.
+In the peripheral part, the development of root hairs was remarkable, and it was mainly caused by the absorption + nitrification of the plant.
+The nitrification quantity was estimated to be about 7070 of the absorption quantity from the growth and component measurement of Zizania latibolia Turcz.
+This paper describes transition of domestic wastewater treatment technology and contaminant characteristics of domestic wastewater.
+
+
+Domestic wastewater treatment reflects progress of treatment technology and technology by treatment principle and social demand by the age.
+This paper describes the decontamination process of trichloroethylene (TCE) gasified in silent discharge developed by Tokyo Metropolitan Industrial Technology Center.
+Used TCE with the air is introduced into the reactor in the generation of silent discharge, and TCE is decomposed into carbon dioxide and hydrogen chloride by the action of discharge and generated ozone.
+The generation rate of ozone and the effect of discharging in nitrogen atmosphere are described.
+At TCE concentrations of 260,600 and 170,000ppm, the decomposition rate was 100,99 and 72% under specific conditions.
+The mole ratio of ozone/TCE was more than 8.5 for complete decomposition.
+For the CO2 emission reduction with the incineration treatment of waste, the new incineration method which fixed the part of the carbon in waste by dividing the incineration treatment process into high‐temperature thermal decomposition and complete combustion of the vapor‐phase products was proposed.
+Microwave was used for the supplementary heating, because the apparent thermal conductivity of the waste was generally small.
+A small experimental furnace consisting of a thermal‐decomposition container, a secondary combustion chamber, a microwave introduction part and a gas heating device was constructed.
+
+The atmosphere monitor system which combined 4 kinds of semiconductor gas sensor elements was improved in the portable type.
+Semiconductor gas sensors used are sensors with selectivity to hydrogen sulfide, sulfur compound, ammonia and general combustible gas.
+It was confirmed that each sensor responded almost linearly in the range of 20-90% RH, and the compensation for humidity was carried out.
+A calibration curve of this system for the degree of dilution of odor gas by clean air was prepared.
+The offensive odor measurement was carried out in the facilities which handled organic solvent, and the practicability of this system was verified.
+Fusion stone processing of sewage sludge is a series of technology to reform sewage sludge slag to crystallizing.
+
+
+There are 3 kinds of sonte products such as sandy, gravel and block, and there are various applications for civil engineering works.
+The stone products have physiochemical characteristics over the natural stone, and the luster by the polishing is also equivalent to the granite.
+This paper explains the survey results of the titled consciousness over 14000 stores.
+The features are decrease of profit by intensified competition, decrease of income by participation of large service stations, extension of extra-oil profit, and review of sale prices.
+This paper shows questionnaire results of 16 items of management reform measures of a service station by percentage.
+
+For the leisure flight, the airplane left the runway 14 of Honda Airport at Okegawa‐City, taking off and landing.
+
+The fire did not occur.
+The pilot and one passenger boarded the airplane, but there was no casualty on the pilot‐in‐command.
+The reason is estimated to be the improper point for the operation of the length of the CAPTAIN.
+
+Though the automation is attempted on the business such as the signal handling by the PRC, the input of the schedule data is required to the computer.
+
+Here was reported on a state of the above work realized in the central Japan Railway Co.
+In the PRC system for remotely controlling the signals, the railway schedule data is directly input from the operation planing data system, and the efficiency improvement is attempted by replacement and construction data are input supplementally.
+The Shizuoka district is scheduled to be carried out in 1999, and the situation is described.
+
+Though the natural gas called the unconventional type is also developed recently, it is not necessary to technically distinguish this from the conventional type.
+In the meantime, pipeline transportation and under ground storage also widely belong to the category of development and production technology.
+This paper explains horizontal well drilling technology, natural gas production technology, transportation and storage.
+It was verified that welded titanium tubes are utilized as heat transfer pipe materials for condensers for power plants and chemical industries, and are excellent in seawater corrosion resistance against water.
+Thinning from 0.7mm to 0.5mm was examined at present, and titanium tubes adopted in domestic nuclear power plants exceeded 5130t.
+
+After that, the sacrificial anode was successfully developed to improve the safety.
+The material in the title with high temperature characteristics equivalent to SCH21 and low cost was developed.
+This paper reports the effect of additive elements on high temperature characteristics and material characteristics obtained in the development process.
+From the experimental result, this paper shows the relationship between oxidation resistance and Cr quantity as an example of the effect of additive elements on high temperature characteristics.
+This paper also mentions the effect of each component on high‐temperature tensile strength, and introduces the component composition of the developed material.
+The high‐temperature tensile strength of the developed material is comparable to that of SCH21.
+Piercing process of thin sheet by ultra‐high‐pressure gas is characterized by good fractured surface and no burrs.
+For this practicability evaluation, this paper examines the effect of sheet thickness of work metal sheet on piercing mechanism, dimensional accuracy, and gas pressure.
+As a result, burrs occurred when the sheet thickness was more than 0.6mm.
+Dimensional accuracy and shear drop width are constant regardless of pressure, and the accuracy decreases in inversely proportionate to hole diameter and in sheet thickness.
+The method of gauge thickness change in a hot rolling mill is to change the reduction position and speed of each stand in order so as not to disturb the mass flow balance.
+In order to verify the possibility of the change of the plate gauge thickness, the technique which suppressed the mass flow variation was adopted, and the verification by the simulator was carried out, and the test system was constructed, and the real machine test was carried out.
+
+This paper describes the gauge thickness changing system and the results of field tests.
+In the active noise control, there is a constraint in the application by the delay time of the processing system, but the delay time can be shortened, if the prediction of the noise is possible by utilizing the property of the noise source.
+This paper takes up a press which repeatedly generates noise of similar feature patterns, and it conducts sound attenuation simulation by 3 types of noise prediction systems.
+In the Ar model, sound attenuation quantity of 20db was obtained in the prediction in one step.
+
+Generally, two processes, namely joining after forming a sintered body, are required; however, when electric resistance sintering is applied, sintering and joining may be able to be achieved simultaneously.
+Then, the simultaneous sintering and joining of the sintered body to the ingot metal by electric resistance sintering was examined.
+The bonding strength is strongly affected by the heat conductivity of the joined ingot metal.
+The melting of the base metal in the joining part remarkably improves the bonding strength.
+In the material with low melting point like aluminum alloy, even if thermal conductivity is high, melting is generated at the junction, and high bonding strength is obtained by penetrating into the sintered body.
+The branch pipe was formed in the part of the main pipe of the aluminum alloy pipe using the rubber.
+A method for thrusting rubber and a pipe together in the axial direction by a pair of cylinders of right and left, and a method for thrusting rubber and a pipe separately in the axial direction by two pairs of cylinders of right and left were adopted.
+The effect of these methods on the molding of the branch pipe was examined.
+
+As a result, the height of the branch pipe can be increased by properly setting and controlling the rubber inner pressure.
+As a simple estimation method of residual stress of welded parts, this paper proposes a method for identifying residual stress distribution from a small number of measured residual stress values.
+After nondestructive stress measurement by X‐ray, the sample is cut off to estimate the stress distribution from the change data of the strain gauge at a specific point.
+The residual stress on the welding line which is difficult to measure by the X‐ray method can be identified using strain gauge measured values far from the welding line.
+The validity of the method is verified by the butt welded joint experiment of SUS316 stainless steel.
+
+As the result, the shear deformation in the circumferential direction decreases, when the rotation speed is increased, when the plug rotates subordinated by the frictional force.
+However, when the rotational speed is too high, the reverse deformation occurs.
+It was proven that there was an optimum rotation speed.
+And, the material was easy to be extended in the circumferential direction, and the outer diameter increased.
+
+
+The experimental results show that this rolling simulation model can reproduce the deformation conditions.
+And, it was effective to raise the tooth depth by increasing the outside tool outer diameter for the formability.
+The electrophotographic process is widely applied to not only analog copying machine but also laser printers and facsimiles with the advance on personal computer and digital technology.
+And, though the monochrome has been the mainstream until now, the coloring advances very much in recent years.
+In addition, since advance and extension to the POD (Print on Demand) field have recently become one of the targets, further high picture quality and speedup considering the printing region are required.
+This paper outlines the electrophotographic process and toner, and examines the present status of research and development, future problems, and direction of CCA which greatly affects the charging property which is one of the most important properties of toner.
+Causes of combustion failures in heavy oil fired boilers were described.
+Toxic substances contained in heavy oil are the cause of the damage.
+The carbon residue becomes a hard precipitate, when it is heated, and it becomes a cause of plugging of the strainer and plugging of the burner chip.
+Sulfur causes sulfate corrosion in low temperature parts such as fuel economizer and air preheater.
+
+In particular, vanadium in the presence of alkali metal and sulfur forms a low‐melting‐point chemical compound, which causes severe corrosion of the metal.
+The software in the title which optimizes the operating condition using manufacturing equipment such as chemistry, medicine, food, iron making, metal, ceramic industries was developed.
+
+This software is cheap, simple and quick.
+In the use, it is done in order of setting of the purpose, data acquisition, data selection, decision of the correlation equation, preparation of the contour diagram, operation under the optimum operating condition, confirmation of the effect.
+It can be carried out by windows correspondence personal computer with CPU over 133MHz and memory over 32MB, and the result often comes out in the 2〜3 hour.
+Recovery and reuse system of theDMSO ( dimethylsulfoxide ) inclusion drainage which arose in the manufacturing process of the liquid crystal display was introduced.
+
+The results of pilot plant tests showed that the deionizers were able to treat up to the level of reuse as raw water for deionizers.
+The recovered water was available as raw water, and no installation of a deodorizer was necessary, and operation was possible at odor intensity of 2.5 or less.
+
+Attention is necessary, because there are combustible CFCs in substitution CFCs.
+
+Confirmation of safety is necessary not to cause fire accidents by sparks during construction.
+This paper explains knife preparation for cut off of corrugators and margin‐to‐seam knife preparation for carton formers.
+Regarding operation speed adjustment of hydraulic and pneumatic cylinders, this paper explains the adjustment method by illustrating the structure of a flow control valve.
+Regarding protective devices of machines, this paper illustrates and explains structures such as a torque limiter, a torque releaser, a stopper, and a hydraulic relief valve.
+It is important to acquire by the self, because the especially difficult point is little for the adjustment.
+) .This paper describes that it is advised to gain experience by utilizing service staff of a machine manufacturer at the time of business trip.
+
+Fuel cells are expected as new power generation systems which can simultaneously solve continuous growth of economy, stable supply of energy, and environmental preservation.
+Research and development of alkali and phosphate types have been completed.
+The molten carbonate type has reached the stage of promoting the development of 1,000kW power generation system.
+Major detergent manufacturers in Japan have converted used surfactants from anionic LAS to nonionic poer.
+However, there is a poer problem that lethal toxicity for freshwater fish is comparatively strong in POER.
+Then, the lethal toxicity experiment of Oryzias latipes was tried under the condition which was similar to actual washing for the purpose of the reduction in lethal toxicity of the POER mixture detergent.
+As the result, it was possible to weaken the ichthyotoxicity without decreasing the detergency, if POER and anionic AS were mixed quantitatively and in good balance.
+
+This paper describes ceramics for high frequency insulation and the evaluation as the titled ceramics.
+Alumina, steatite and forsterite were evaluated, and the result of loss reduction research carried out in the fine Ceramic Center was reported.
+The article introduces electrical evaluation of high frequency insulation ceramics and a dielectric resonator which can measure low dielectric loss in microwave band.
+This paper outlines the development of low‐loss forsterite porcelain.
+As evaluation methods of high frequency ceramics, insulation resistance, withstand voltage, dielectric constant and dielectric loss, and dielectric characteristics of microwave band are described.
+This paper explains features and prospects of the titled magnets which attract attention as post Nd magnets.
+The adsorption reaction of N atoms into Sm2Fe17 was outlined, and it was shown that the characteristics changed by the method of nitriding.
+Since Sm2Fe17N3 decomposes at over about 550 °C, the sintering preparation can not be applied, and the application as bond magnets is promising.
+This paper shows development situations of Sm2Fe17N3 magnets in each research institute.
+This paper introduces applications utilizing high magnetic properties and high heat resistance of this magnet.
+The glass fiber reinforced polypropylene board with the circular hole notch was injection molded, and the effect of hole size and rotation speed of the molding machine screw on the fiber and hole strength was investigated.
+The tensile loading was applied to the plate specimens in which the rotation speed was 100-300rpm and the radius of the hole was 0-2.5mm, and the energy release rate was measured by the AE measurement.
+As the rotation speed increases, the fiber breaks and the energy release rate decreases.
+As the hole diameter decreases, the breaking load decreases and the energy release rate increases.
+Effects of short‐chain fatty acids on intestinal functions are explained.
+The effects of short‐chain fatty acids on the secretion of pancreatic juice and peptide YY, and on the microcirculation of the large intestine are described.
+The blood stream quantity increased and the hyperplasia of cells was confirmed, when short‐chain fatty acid was injected to the patient operated on for large intestine and rectal disorders.
+
+
+On the assumption of blend knit fabrics of polyloft and rayon, weight loss processing of polyloftnit and rayon fabrics in the same bath was carried out in sodium hydroxide solution.
+
+When weight reduction promoters were added, the weight reduction rate of polyloft increased a little, but that of rayon was almost 0.
+Establishment of weight reduction processing conditions is necessary in order to carry out weight reduction processing so that the strength of rayon may be kept to some extent.
+Antibacterial and deodorization properties are required in order to realize the comfortable life.
+
+This paper introduces antibacterial and deodorization nautral fibers \"Chitopoly\" effective for atopic dermatitis.
+Chitosan contained in this is a polysaccharide obtained from crustacean and insects, which is similar to cellulose.
+Chitopoly is a polynosic mixed with chitosan, and its features are 1) antibacterial and deodorization functions, 2) biodegradability, and 3) effects on allergic symptoms.
+By adding the inorganic antimicrobial agent which is stable even in the high temperature to the glassy layer (glaze) for coating the body, the ceramic is made to be antimicrobial.
+This paper describes antimicrobial property, durability and safety of antimicrobial ceramic for Escherichia coli, Staphylococcus aureus, and MRSA.
+And, this paper explains the effect of antimicrobe processed articles on the prevention of generation of toilet urine scale fouling and the prevention of generation of moisture (slime) fouling.
+This paper also describes the problems for effectively demonstrating the antimicrobial function.
+
+In order to avoid the effects of elongation, polyester satin with minimum elongation in length and width direction was used.
+
+In the future, it wants to expand the database construction by not only adding the case of other position but also examining skeletal structure for making it to be the clothes design of which movement is easy and that it is comfortable and the movable range.
+This paper explains the circumstances in which Osaka GAS tackled the Internet.
+The intranet which utilizes the Internet mechanism as it is is is optimum for the system mainly for information reading.
+This paper explains merits and demerits of intranet.
+
+The construction of total business support system using intranet is promoted.
+In addition, this paper reports that various technological development programs are promoted to construct convenient applications.
+
+On I, it was plate type, uniform thickness, and 4〜8μm by the low magnification (300 magnifications) observation.
+However, the observation from the side view of the plate was not possible, and information such as the thickness was not obtained.
+Light-field and dark-field images were observed at a medium magnification of several ten thousand times, and many fine particle adhesions on the sample surface and uniform thickness interference fringes corresponding to changes in the thickness were observed.
+No lattice images were obtained by high resolutin power image observation.
+On (II), the same observation as (I) was observed.
+The reason why the full color electrophotographic image is inferior to the printed image in respect of the picture quality was examined.
+The difference is considered to be caused by the micro‐structure in the thickness direction of the images.
+
+As the result, it was proven that the printed image had small thickness of the image and high uniformity.
+
