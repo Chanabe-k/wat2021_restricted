@@ -7,7 +7,6 @@
 - `filter_out_sentences.py` ... exact match評価のためのscript
     - `Sample.ipynb` ... いろいろいじるようのipynb
 
-
 ### others
 - その他自分用のソースコード
 
