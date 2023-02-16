@@ -1,5 +1,7 @@
-## src
-### evaluation
-- `filter_out_sentences.py` ... exact match評価のためのフィルタリング
-- `run_filter_out.sh` ... 一括で上記フィルタリング
-- `Reranking.ipynb` ... 結果のリランキング
+# Evaluation
+
+python=3.8.6
+
+1. `filter_out_sentences.py`で，指定termが含まれていないsystem output文をfilter out
+2. `./calc_BLUE.sh`でBLUEを計算 (saclebleuが必要)
+3. `re-ranking.py`で，各systemをre-ranking
