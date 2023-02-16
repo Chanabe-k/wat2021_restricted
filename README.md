@@ -1,6 +1,6 @@
 # Restricted Translation Task 2021 in WAT2021
 
-- Restricted Translation Task is held in WAT2021, which need to translate based on given restricted target vocabularies. Please see [Website](https://sites.google.com/view/restricted-translation-task/top?authuser=0) in details.
+Restricted Translation Task is held in WAT2021, which need to translate based on given restricted target vocabularies. Please see [Website](https://sites.google.com/view/restricted-translation-task/top?authuser=0) in details.
 
 ## requirements
 - python 3.8
