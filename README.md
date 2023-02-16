@@ -1,13 +1,13 @@
-# WAT2021_Restricted_Translation_Task
+# Restricted Translation Task 2021 in WAT2021
 
-- Restricted Translation Task is held in WAT2021, which need to translate based on given restricted target vocabularies. Please see [Website (2021)](https://sites.google.com/view/restricted-translation-task/2021?authuser=0) in details.
+- Restricted Translation Task is held in WAT2021, which need to translate based on given restricted target vocabularies. Please see [Website](https://sites.google.com/view/restricted-translation-task/top?authuser=0) in details.
 
 ## requirements
 - python 3.8
 - `pip install -r requirements.txt`
 - (for evaluation) `pip install sacrebleu[ja]`
 
-## terminologies
+## terminologies (restricted target vocabulary lists)
 - Please download the above website.
 
 ## evaluation
