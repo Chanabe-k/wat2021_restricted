@@ -1,16 +1,27 @@
 set -eux
 
-LANG=ja # ja
-DIRECTION=en-ja #en-ja
+LANG=$1 # ja
+DIRECTION=$2 #en-ja
 
-HOME_PATH=/Users/abe-k/wat2021_sharedtask/
-GOLD_PATH=${HOME_PATH}data/test_gold.${LANG}
-FILTERED_OUTPUTS_PATH=${HOME_PATH}work/filtered_outputs/${DIRECTION}
-# RESULT_PATH=${HOME_PATH}work/all_results_${DIRECTION}.txt
+HOME_PATH=/Users/abe-k/restricted_translation/wat2021_restricted/
+GOLD_PATH=${HOME_PATH}data/ASPEC-JE/test_gold.${LANG}
+# normal
+# FILTERED_OUTPUTS_PATH=${HOME_PATH}work/filtered_outputs/${DIRECTION}
+# remove backslash
+FILTERED_OUTPUTS_PATH=${HOME_PATH}work/filtered_outputs_includeslash/${DIRECTION}
+# no filtered
+# FILTERED_OUTPUTS_PATH=${HOME_PATH}submitted_outputs/${DIRECTION}
 
 for OUTPUT_PATH in $( ls ${FILTERED_OUTPUTS_PATH})
 do
 echo ${OUTPUT_PATH}
-#LC_ALL=ja_jp.utf-8 perl ${HOME_PATH}src/evaluation/multi-bleu.perl ${GOLD_PATH} < ${FILTERED_OUTPUTS_PATH}/${OUTPUT_PATH}
-cat ${FILTERED_OUTPUTS_PATH}/${OUTPUT_PATH} | sacrebleu ${GOLD_PATH} -l ${DIRECTION} -tok ja-mecab
+        
+if [ $DIRECTION = 'en-ja' ]; then
+    # en-ja
+    cat ${FILTERED_OUTPUTS_PATH}/${OUTPUT_PATH} | sacrebleu ${GOLD_PATH} -l ${DIRECTION} -tok ja-mecab
+else
+    # ja-en
+    cat ${FILTERED_OUTPUTS_PATH}/${OUTPUT_PATH} | sacrebleu ${GOLD_PATH} -l ${DIRECTION}  
+fi
+
 done
