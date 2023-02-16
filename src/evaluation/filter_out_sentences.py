@@ -9,15 +9,6 @@ import argparse
 def _lowercase(text: str):
     return text.lower()
 
-# def _detokenize(text: str):
-#     return ''.join(text.split(' '))
-
-# def _remove_punctuation(text: str):
-#     punctuations = r'\'"「」\()（）'
-#     for punc in punctuations:
-#         text = text.replace(punc, '')
-#     return text
-
 def _replace_specialchar(w: str):
     specialchars = '+()'
     for specialchar in specialchars:
