@@ -2,6 +2,9 @@
 
 Restricted Translation Task is held in WAT2021, which need to translate based on given restricted target vocabularies. Please see [Website](https://sites.google.com/view/restricted-translation-task/top?authuser=0) in details.
 
+- [2022](https://github.com/Chanabe-k/wat2022_restricted/)
+- 2021
+
 ## requirements
 - python 3.8
 - (for evaluation) `pip install sacrebleu[ja]`
